@@ -131,6 +131,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.2.1)
   jekyll-feed (~> 0.12)
+  jekyll-include-cache
   minimal-mistakes-jekyll (~> 4)
   standard
   webrick

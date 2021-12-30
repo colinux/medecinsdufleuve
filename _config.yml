@@ -32,6 +32,7 @@ github_username:  jekyll
 # Build settings
 theme: minimal-mistakes-jekyll
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
 
 # Exclude from processing.
