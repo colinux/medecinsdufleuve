@@ -25,6 +25,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://medecinsdufleuve.org" # the base hostname & protocol for your site, e.g. http://example.com
 locale: fr
+repository: "colinux/medecinsdufleuve"
+logo: "/assets/images/logo-medecins-du-fleuve.png"
+masthead_title: "Association de Solidarité Internationale"
 
 # Build settings
 theme: minimal-mistakes-jekyll

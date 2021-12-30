@@ -1,0 +1,11 @@
+.page-home {
+  .page {
+    &__hero--overlay {
+      background-position: center top 45%;
+    }
+
+    &__hero-caption {
+      font-size: 0.5em;
+    }
+  }
+}
