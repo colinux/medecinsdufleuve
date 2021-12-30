@@ -20,5 +20,7 @@ group :jekyll_plugins do
 end
 
 group :development do
- gem "webrick"
+  gem "webrick"
 end
+
+gem "standard", group: [:development, :test]
