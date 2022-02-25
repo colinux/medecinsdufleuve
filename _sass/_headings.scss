@@ -1,9 +1,14 @@
-h2,
-h3,
-h4,
-h5,
-h6 {
+.layout--single h1 {
   color: $primary-color;
-  letter-spacing: 0.05em;
-  font-variant: small-caps;
+}
+
+.splash {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    letter-spacing: 0.05em;
+    font-variant: small-caps;
+  }
 }

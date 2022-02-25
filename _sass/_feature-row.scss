@@ -1,0 +1,17 @@
+.feature__item--left {
+  .archive__item {
+    width: 100%;
+
+    @include breakpoint(max-width $small) {
+      margin-bottom: 3em;
+
+      &-teaser {
+        margin-bottom: 1em;
+      }
+
+      &-title {
+        margin-top: 0;
+      }
+    }
+  }
+}
