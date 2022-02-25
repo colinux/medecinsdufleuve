@@ -3,10 +3,10 @@ layout: splash
 
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: "/assets/images/splash-pirogue.jpg"
-  caption: "© Médecins du Fleuve (Sénégal)"
-  image_description: "MdF"
+  caption: "© Médecins du Fleuve (Mali, 2010)"
+  image_description: "La pirogue de Médecins du Fleuve sur le fleuve Niger, au Mali."
 
 title: "**Médecins du Fleuve**"
 excerpt: |
@@ -16,6 +16,53 @@ excerpt: |
 
 classes:
   - page-home
+
+
+
+gallery:
+  - url: /assets/images/home/medecins-du-fleuve-1.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-1.jpg
+  - url: /assets/images/home/medecins-du-fleuve-2.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-2.jpg
+    alt: "Médecins du Fleuve"
+  - url: /assets/images/home/medecins-du-fleuve-3.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-3.jpg
+    alt: "Médecins du Fleuve"
+  - url: /assets/images/home/medecins-du-fleuve-4.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-4.jpg
+    alt: "Médecins du Fleuve"
+  - url: /assets/images/home/medecins-du-fleuve-senegal.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-senegal.jpg
+    alt: "Médecins du Fleuve au Sénégal"
+    title: "Médecins du Fleuve au Sénégal"
+  - url: /assets/images/home/medecins-du-fleuve-mali-1.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-mali-1.jpg
+    alt: "Médecins du Fleuve au Mali"
+    title: "Médecins du Fleuve au Mali"
+  - url: /assets/images/home/medecins-du-fleuve-mali-2.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-mali-2.jpg
+    alt: "Médecins du Fleuve au Mali"
+    title: "Médecins du Fleuve au Mali"
+  - url: /assets/images/home/medecins-du-fleuve-mali-3.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-mali-3.jpg
+    alt: "Médecins du Fleuve - Prévention au Mali"
+    title: "Médecins du Fleuve - Prévention au Mali"
+  - url: /assets/images/home/medecins-du-fleuve-mali-4.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-mali-4.jpg
+    alt: "Médecins du Fleuve - Soins au Mali"
+    title: "Médecins du Fleuve - Soins au Mali"
+  - url: /assets/images/home/medecins-du-fleuve-senegal-m29.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-senegal-m29.jpg
+    alt: "Médecins du Fleuve au Sénégal"
+    title: "Médecins du Fleuve au Sénégal"
+  - url: /assets/images/home/medecins-du-fleuve-senegal-m30.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-senegal-m30.jpg
+    alt: "Médecins du Fleuve au Sénégal"
+    title: "Médecins du Fleuve au Sénégal"
+  - url: /assets/images/home/medecins-du-fleuve-senegal-m36.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-senegal-m36.jpg
+    alt: "Médecins du Fleuve au poste de Santé de Deggu-Niaye au Sénégal"
+    alt: "Médecins du Fleuve au Sénégal"
 ---
 
 ## L'Association
@@ -25,3 +72,6 @@ et dont le siège social est situé 249 rue des Pyrénées à PARIS XXème.
 
 Les statuts initialement enregistrés en 2006 ont été modifiés en 2013
 pour permettre un élargissement des pays d’interventions
+
+
+{% include gallery %}

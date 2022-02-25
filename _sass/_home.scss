@@ -1,7 +1,16 @@
 .page-home {
   .page {
     &__hero--overlay {
-      background-position: center top 45%;
+      @media (min-width: $small) {
+        background-position: center top 65%;
+        aspect-ratio: 2.6;
+      }
+
+      @media (min-width: $large) {
+        .wrapper {
+          margin-top: 6em;
+        }
+      }
     }
 
     &__hero-caption {
