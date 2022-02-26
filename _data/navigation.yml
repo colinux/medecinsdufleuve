@@ -1,3 +1,7 @@
 main:
+    - title: "Faire un don <i>♡</i>"
+      url: /faire-un-don
+
     - title: "Contact"
       url: /contact
+

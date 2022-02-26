@@ -1,0 +1,9 @@
+.page-donation {
+  .page {
+    &__hero--overlay {
+      @media (min-width: $small) {
+        background-position: center top 20%;
+      }
+    }
+  }
+}

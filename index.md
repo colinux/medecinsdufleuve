@@ -15,6 +15,7 @@ excerpt: |
   du fleuve Sénégal et du delta du Saloum au Sénégal, et du fleuve Niger au Mali.
 
 classes:
+  - headings-colored
   - page-home
 
 

@@ -1,4 +1,11 @@
 .masthead {
+  &__menu-item {
+    i {
+      color: $primary-color;
+      font-style: normal;
+    }
+  }
+
   .site-logo img {
     max-height: 4rem;
   }
