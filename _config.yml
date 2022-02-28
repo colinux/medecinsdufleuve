@@ -27,11 +27,10 @@ address_multi_line: |
 description: >- # this means to ignore newlines until "baseurl:"
   L'association Médecins du Fleuve est une ONG qui fournit une aide médicale aux populations défavorisées du Sénégal et du Mali.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://medecinsdufleuve.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://medecinsdufleuve.org" # the base hostname & protocol for your site, e.g. http://example.com
 locale: fr
 repository: "colinux/medecinsdufleuve"
 logo: "/assets/images/logo-medecins-du-fleuve.png"
-masthead_title: "Association de Solidarité Internationale"
 
 hello_asso_deeplink: "https://www.helloasso.com/associations/medecins-du-fleuve/adhesions/soutien-mdf-2"
 support_form: /assets/mdf_bulletin_don.pdf

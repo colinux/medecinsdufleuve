@@ -6,15 +6,24 @@
     }
   }
 
-  .site-logo img {
-    max-height: 4rem;
+  .site-logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &:after {
+      content: "Association de Solidarité Internationale";
+      font-size: 0.6rem;
+      opacity: 0.95;
+      margin-top: 0.5em;
+    }
+
+    img {
+      max-height: 4rem;
+    }
   }
 
   .site-title {
-    font-size: 0.66rem;
-    font-weight: normal;
-    opacity: 0.95;
-    align-self: flex-end;
-    margin-bottom: 1em;
+    display: none;
   }
 }
