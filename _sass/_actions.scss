@@ -4,3 +4,35 @@
     align-items: center;
   }
 }
+
+.page-senegal-carte {
+  @media (min-width: $small) {
+    display: flex;
+  }
+
+  .carte {
+    margin-top: 0;
+    max-width: 384px;
+  }
+
+  p {
+    margin-top: 1em;
+  }
+}
+
+.page-actions-senegal {
+  .page {
+    &__hero--overlay {
+      @media (min-width: $small) {
+        background-position: center top 58%;
+        aspect-ratio: 4.5;
+      }
+
+      @media (min-width: $large) {
+        .wrapper {
+          margin-top: 4em;
+        }
+      }
+    }
+  }
+}

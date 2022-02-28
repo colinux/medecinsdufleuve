@@ -151,7 +151,7 @@ pour assurer la continuité de l’action.
   Plus récemment, une violente tempête tropicale nocturne a surpris
   l’équipe malienne en mission et complètement détruit la pinasse MDF sur le Lac Débo,
   mais heureusement sans dommage humain.
-  <figure class="align-right image-inline">
+  <figure class="align-right">
     <a class="image-popup"
       href="/assets/images/actions-mali/medecins-du-fleuve-mali-13-tempete.jpg"
       title="Pinasse détruite suite à une tempête nocturne"

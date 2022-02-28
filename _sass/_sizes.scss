@@ -1,0 +1,14 @@
+.w-400 {
+  max-width: 100%;
+}
+
+.w-400 {
+  @media (min-width: $small) {
+    max-width: 40%;
+    width: 400px;
+  }
+}
+
+.mt-0 {
+  margin-top: 0;
+}
