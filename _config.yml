@@ -35,6 +35,9 @@ logo: "/assets/images/logo-medecins-du-fleuve.png"
 hello_asso_deeplink: "https://www.helloasso.com/associations/medecins-du-fleuve/adhesions/soutien-mdf-2"
 support_form: /assets/mdf_bulletin_don.pdf
 
+atom_feed:
+  hide: true
+
 # Build settings
 theme: minimal-mistakes-jekyll
 plugins:
