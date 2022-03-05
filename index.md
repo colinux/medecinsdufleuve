@@ -4,15 +4,13 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: "/assets/images/splash-pirogue.jpg"
-  caption: "© Médecins du Fleuve (Mali, 2010)"
-  image_description: "La pirogue de Médecins du Fleuve sur le fleuve Niger, au Mali."
+  overlay_image: "/assets/images/splash-enfants.jpg"
+  caption: "© Médecins du Fleuve (Sénégal)"
+  image_description: "Des enfants se lavent et lavent du linge dans le fleuve Sénégal"
 
 title: "**Médecins du Fleuve**"
 excerpt: |
-  L'association **Médecins du Fleuve** est une ONG Internationale
-  qui fournit une **aide médicale aux populations défavorisées**
-  du fleuve Sénégal et du delta du Saloum au Sénégal, et du fleuve Niger au Mali.
+  **MDF** vient en aide à des populations riveraines défavorisées en Afrique de l’Ouest
 
 classes:
   - headings-colored
@@ -32,8 +30,8 @@ gallery:
   - url: /assets/images/home/medecins-du-fleuve-4.jpg
     image_path: /assets/images/home/medecins-du-fleuve-4.jpg
     alt: "Médecins du Fleuve"
-  - url: /assets/images/home/medecins-du-fleuve-senegal.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-senegal.jpg
+  - url: /assets/images/home/medecins-du-fleuve-senegal-1.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-senegal-1.jpg
     alt: "Médecins du Fleuve au Sénégal"
     title: "Médecins du Fleuve au Sénégal"
   - url: /assets/images/home/medecins-du-fleuve-mali-1.jpg
@@ -52,17 +50,16 @@ gallery:
     image_path: /assets/images/home/medecins-du-fleuve-mali-4.jpg
     alt: "Médecins du Fleuve - Soins au Mali"
     title: "Médecins du Fleuve - Soins au Mali"
-  - url: /assets/images/home/medecins-du-fleuve-senegal-m29.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-senegal-m29.jpg
+  - url: /assets/images/home/medecins-du-fleuve-senegal-2.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-senegal-2.jpg
     alt: "Médecins du Fleuve au Sénégal"
     title: "Médecins du Fleuve au Sénégal"
-  - url: /assets/images/home/medecins-du-fleuve-senegal-m30.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-senegal-m30.jpg
+  - url: /assets/images/home/medecins-du-fleuve-senegal-3.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-senegal-3.jpg
     alt: "Médecins du Fleuve au Sénégal"
     title: "Médecins du Fleuve au Sénégal"
-  - url: /assets/images/home/medecins-du-fleuve-senegal-m36.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-senegal-m36.jpg
-    alt: "Médecins du Fleuve au poste de Santé de Deggu-Niaye au Sénégal"
+  - url: /assets/images/home/medecins-du-fleuve-senegal-4.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-senegal-4.jpg
     alt: "Médecins du Fleuve au Sénégal"
 ---
 

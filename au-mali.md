@@ -81,19 +81,15 @@ gallery-evaluation:
     alt: "L'association a transmis son expérience à une équipe locale pour assurer la continuité d'action"
     title: "L'association a transmis son expérience à une équipe locale pour assurer la continuité d'action"
 
-gallery-realisations:
-  - url: /assets/images/actions-mali/medecins-du-fleuve-mali-14.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-14.jpg
-    alt: "Poste de Santé de Bangou construit grâce à l'association"
-    title: "Poste de Santé de Bangou construit grâce à l'association"
+gallery-bangou:
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-15.jpg
     image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-15.jpg
-    alt: "Pirogue ambulance adossée au poste de santé de Bangou"
-    title: "Pirogue ambulance adossée au poste de santé de Bangou"
+    alt: "Poste de Santé de Bangou construit grâce à l'association"
+    title: "Poste de Santé de Bangou construit grâce à l'association"
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-16.jpg
     image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-16.jpg
-    alt: "Centre de Santé d'Enguem construit grâce à l'association"
-    title: "Centre de Santé d'Enguem construit grâce à l'association"
+    alt: "Pirogue ambulance adossée au poste de santé de Bangou"
+    title: "Pirogue ambulance adossée au poste de santé de Bangou"
 ---
 ## Contexte sanitaire
 
@@ -147,10 +143,12 @@ pour assurer la continuité de l’action.
 
 {% include gallery id="gallery-evaluation" %}
 
-<div class="page-mali-tempete">
+<div class="page-text-right-photo">
+<p>
   Plus récemment, une violente tempête tropicale nocturne a surpris
   l’équipe malienne en mission et complètement détruit la pinasse MDF sur le Lac Débo,
   mais heureusement sans dommage humain.
+  </p>
   <figure class="align-right">
     <a class="image-popup"
       href="/assets/images/actions-mali/medecins-du-fleuve-mali-13-tempete.jpg"
@@ -166,7 +164,21 @@ considérablement pendant les missions, mais aussi en dehors de celles-ci
 grâce à l’amélioration de leurs possibilités,
 à la motivation stimulée des agents de santé, et au regain de confiance des populations.
 
-Un poste de santé avancé a été construit et équipé à Bangou,
-et doté d’une pirogue ambulance. Un centre de santé a été construit à Enguem.
+<div class="page-text-right-photo">
+  <p>Un poste de santé a été construit à Enghem, maintenant géré par la santé publique :</p>
 
-{% include gallery id="gallery-realisations" %}
+  <figure class="align-right">
+    <a class="image-popup"
+    href="/assets/images/actions-mali/medecins-du-fleuve-mali-14.jpg"
+    title="Poste de santé construit à Bangou"
+    >
+      <img src="/assets/images/actions-mali/medecins-du-fleuve-mali-14.jpg" />
+    </a>
+  </figure>
+</div>
+
+
+Un poste de santé avancé a été construit à Bangou, doté d’une pirogue ambulance,
+et toujours soutenu par MDF en médicaments :
+
+{% include gallery id="gallery-bangou" %}

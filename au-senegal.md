@@ -9,6 +9,9 @@ header:
   image_description: ""
 
 title: "Nos actions au Sénégal"
+excerpt: |
+  L’association a pour but d’améliorer l’accès aux soins des populations les plus défavorisées
+  des rives du fleuve Sénégal au nord du pays, et dans les zones insulaires isolées au sud du Sine Saloum.
 
 classes:
   - headings-colored
@@ -47,7 +50,7 @@ gallery-objectifs:
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-10.jpg
     image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-10.jpg
     alt: ""
-    title: "Sud de Sine Saloum (2017)"
+    title: ""
 
 
 gallery-moyens:
@@ -74,26 +77,22 @@ gallery-realisations:
     image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-15.jpg
     alt: ""
     title: ""
-  - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-16.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-16.jpg
-    alt: ""
-    title: ""
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-17.jpg
     image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-17.jpg
     alt: "Moto-tricycle aménagée en ambulance"
     title: "Moto-tricycle aménagée en ambulance"
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-18.jpg
     image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-18.jpg
-    alt: "Dispensaire de Djoudj avant sa réhabilitation"
-    title: "Dispensaire de Djoudj avant sa réhabilitation"
-  - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-19.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-19.jpg
-    alt: "Case de santé de Diadiem 1"
-    title: "Case de santé de Diadiem 1"
-  - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-20.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-20.jpg
     alt: "Poste de santé de Débi-Tiguet"
     title: "Poste de santé de Débi-Tiguet"
+  - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-19.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-19.jpg
+    alt: "Case de santé de Diadiem 1 avant rénovation"
+    title: "Case de santé de Diadiem 1 avant rénovation"
+  - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-20.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-20.jpg
+    alt: "Case de santé de Diadiem 1 après rénovation"
+    title: "Case de santé de Diadiem 1 après rénovation"
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-21.jpg
     image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-21.jpg
     alt: "Hutte de paille"
@@ -106,10 +105,14 @@ gallery-realisations:
     image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-23.jpg
     alt: "Case de santé de Rawette construite par l'association"
     title: "Case de santé de Rawette construite par l'association"
+  - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-25.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-25.jpg
+    alt: "Poste de santé des Parcs Nationaux de KARANG"
+    title: "Poste de santé des Parcs Nationaux de KARANG"
 ---
 
 <div class="page-senegal-carte cf">
-  <figure class="align-left carte">
+  <figure class="align-center carte">
     <a class="image-popup"
       href="/assets/images/actions-senegal/senegal-carte.png"
       >
@@ -118,8 +121,6 @@ gallery-realisations:
     </a>
     <figcaption>Carte de la zone d'intervention au Sénégal</figcaption>
   </figure>
-
-  <p>Au Sénégal, l’association a pour but d’améliorer l’accès aux soins des populations les plus défavorisées des rives du fleuve Sénégal au nord du pays, et dans les zones insulaires isolées au sud du Sine Saloum.</p>
 </div>
 
 ## Contexte sanitaire, évaluation des besoins
@@ -132,7 +133,7 @@ gallery-realisations:
   </a>
 </figure>
 
-En matière de développement, le Sénégal occupe la 171ème place sur 197 du classement PNUD.
+En matière de développement, le Sénégal occupe la 168ème place sur 189 du classement PNUD.
 Le tiers de la population vit en dessous du seuil de pauvreté.
 Les indicateurs nationaux de santé disponibles font état d’une mortalité
 infanto-juvénile de 75/1000, et jusqu’à deux fois plus élevée en zone rurale
@@ -177,9 +178,9 @@ C’est vers les structures les plus périphériques que MDF a proposé d’orie
 
 {% include gallery id="gallery-objectifs" layout="half" %}
 
-Médecins du Fleuve s’est engagé à ce que cette action soit menée en concertation avec les autorités administratives et traditionnelles, dans le respect des politiques sanitaires ainsi que des pratiques locales. Un protocole d’accord a été signé en 2012 avec le Médecin Chef du District sanitaire de Richard-Toll pour un appui aux postes et cases de santé des aires de Diama, du Djoudj et de Débi-Tiguet et à leur personnel. Cette zone comprend un ensemble d’une douzaine de villages échelonnés le long du fleuve sur une soixantaine de kilomètres, et représentent une population de plus de 12000 habitants. 
+Médecins du Fleuve s’est engagé à ce que cette action soit menée en concertation avec les autorités administratives et traditionnelles, dans le respect des politiques sanitaires ainsi que des pratiques locales. Un protocole d’accord a été signé en 2012 avec le Médecin Chef du District sanitaire de Richard-Toll pour un appui aux postes et cases de santé des aires de Diama, du Djoudj et de Débi-Tiguet et à leur personnel. Cette zone comprend un ensemble d’une douzaine de villages échelonnés le long du fleuve sur une soixantaine de kilomètres, et représentent une population de plus de 12000 habitants.
 
-Un partenariat conclu avec les Parcs Nationaux du Sénégal, permet aussi désormais d’intervenir au profit des populations insulaires au sud du Sine Saloum (Bettenty, Djinack)
+Un partenariat conclu avec les Parcs Nationaux du Sénégal, permet aussi désormais d’intervenir au profit des populations insulaires au sud du Sine Saloum (Bettenty, Djinack, Bossingkang).
 
 
 ## Moyens humains et matériels
@@ -201,14 +202,14 @@ Une petite partie est assurée par l’emport de médicaments achetés en France
 
 ## Réalisations
 
-Depuis 2013, plus de 30 missions ont été conduites au Sénégal, permettant de soigner plus de 15 000 malades
+Depuis 2013, plus de 40 missions ont été conduites au Sénégal, permettant de soigner plus de 15 000 malades
 
 Dans le même temps des investissements ont été réalisés :
 
 * L’achat et l’aménagement d’une <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-17.jpg">moto tricycle ambulance</a>, et la construction de son abri
-* La réhabilitation du <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-18.jpg">dispensaire de Djoudj</a>, entreprise en urgence devant la menace d’effondrement de la toiture
-* La remise en état de la <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-19.jpg">case de santé délabrée de Diadiem 1</a>
-* La réhabilitation progressive du <a class="image-popup" href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-20.jpg">poste de santé de Débi-Tiguet</a>
+* La réhabilitation du dispensaire de Djoudj, entreprise en urgence devant la menace d’effondrement de la toiture
+* La réhabilitation progressive du <a class="image-popup" href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-18.jpg">poste de santé de Débi-Tiguet</a>
+* La remise en état de la case de santé délabrée de Diadiem 1 : <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-19.jpg">avant</a> / <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-20.jpg">après</a>
 * La construction d’<a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-22.jpg">une case en dur</a> pour un jeune handicapé de la lèpre à Diadiem 3 en remplacement de sa <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-21.jpg">hutte de paille</a>
 * La construction de la <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-23.jpg">case de santé de Rawette</a>
 * La construction du <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-24.jpg">bloc maternité de Diama</a> (salle d’accouchement, salle de travail, salle de repos, bureau de sage-femme)
@@ -229,6 +230,7 @@ Dans le même temps des investissements ont été réalisés :
 * Poursuite régulière des missions itinérantes de soins
 * Mise en place de missions de soins dentaires (mission inaugurale en mai 2018)
 * Développement d’une synergie d’action avec la Compagnie Agricole de St Louis pour favoriser les investissements sanitaires sur l’aire de Djoudj
-* Financement de la construction du logement de la sage- femme de Diama
+* Financement de la construction du logement de la sage-femme de Diama
 * Mise en place d’un projet d’aide à la communauté d’handicapés de Bettenty
-* Construction du poste de santé du Parc National du delta du Saloum
+* Construction d’une case de santé à Diadiem 2
+* Construction d’une pirogue ambulance pour le village insulaire de Bossingkang

@@ -2,8 +2,8 @@
   .page {
     &__hero--overlay {
       @media (min-width: $small) {
-        background-position: center top 65%;
-        aspect-ratio: 2.6;
+        background-position: center top 30%;
+        aspect-ratio: 2.9;
       }
 
       @media (min-width: $large) {

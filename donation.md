@@ -2,8 +2,10 @@
 layout: splash
 permalink: /faire-un-don
 
-title: Faire un don
+title: Adhérez en faisant un don
 
+excerpt : |
+  Il permettra de mener à bien nos missions mobiles, d’**acheter des médicaments**, de prendre en charge des **interventions chirurgicales**, de rénover ou construire des **postes de santé**
 
 header:
   overlay_color: "#000"
@@ -13,9 +15,6 @@ header:
   image_description: "Des ânes tractent des valises de médicaments et de matériel médical, qui ont été financés par vos dons à Médecins du Fleuve"
 
 
-excerpt : |
-  Vous souhaitez soutenir nos actions par un don ? Il permettra le financement de
-  **médicaments et de matériel médical qui seront fournis aux populations**.
 
 classes:
   - wide
@@ -44,7 +43,7 @@ Paiement par CB sécurisé et gratuit via [HelloAsso]({{ site.hello_asso_deeplin
 Chèque à libeller à l'ordre de **Médecins du Fleuve**.
 
 
-## Paiement par virement bancaire
+## Paiement par Virement Bancaire
 
 Écrivez-nous à [{{site.email}}](mailto:{{ site.email }}) :
 nous vous communiquerons notre RIB pour effectuer votre virement ponctuel ou permanent.

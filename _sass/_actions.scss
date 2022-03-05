@@ -1,7 +1,11 @@
-.page-mali-tempete {
+.page-text-right-photo {
   @media (min-width: $small) {
     display: flex;
     align-items: center;
+  }
+
+  > * {
+    flex: 1;
   }
 }
 
@@ -12,11 +16,7 @@
 
   .carte {
     margin-top: 0;
-    max-width: 384px;
-  }
-
-  p {
-    margin-top: 1em;
+    max-width: 560px;
   }
 }
 
