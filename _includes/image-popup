@@ -1,0 +1,8 @@
+<figure class="{{ include.classes }}">
+  <a class="image-popup"
+     href="{{ include.href | default: include.path }}"
+     title="{{ include.title }}"
+   >
+   <img src="{{ include.path }}" />
+  </a>
+</figure>

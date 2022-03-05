@@ -1,4 +1,7 @@
 main:
+    - title: "L'association"
+      url: /association
+
     - title: "Nos actions au Sénégal <i>🇸🇳</i>"
       url: /au-senegal
 
