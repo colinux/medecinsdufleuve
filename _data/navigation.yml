@@ -11,6 +11,10 @@ main:
     - title: "Faire un don <i>♡</i>"
       url: /faire-un-don
 
+    - title: "Partenaires"
+      url: /partenariat
+
     - title: "Contact"
       url: /contact
+
 
