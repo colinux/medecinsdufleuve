@@ -3,6 +3,6 @@
      href="{{ include.href | default: include.path }}"
      title="{{ include.title }}"
    >
-   <img src="{{ include.path }}" />
+   <img src="{{ include.path }}" lazy />
   </a>
 </figure>

@@ -8,8 +8,12 @@ main:
     - title: "Nos actions au Mali <i>🇲🇱</i>"
       url: /au-mali
 
+
     - title: "Faire un don <i>♡</i>"
       url: /faire-un-don
+
+    - title: "Photos au Mali"
+      url: /mali
 
     - title: "Partenaires"
       url: /partenariat

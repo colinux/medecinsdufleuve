@@ -15,6 +15,7 @@ excerpt: |
 classes:
   - headings-colored
   - page-actions-mali
+  - page-splash-pirogue
 
 gallery-intro:
   - url: /assets/images/actions-mali/mali-carte.png
@@ -172,7 +173,7 @@ grâce à l’amélioration de leurs possibilités,
     href="/assets/images/actions-mali/medecins-du-fleuve-mali-14.jpg"
     title="Poste de santé construit à Bangou"
     >
-      <img src="/assets/images/actions-mali/medecins-du-fleuve-mali-14.jpg" />
+      <img src="/assets/images/actions-mali/medecins-du-fleuve-mali-14.jpg" lazy />
     </a>
   </figure>
 </div>
@@ -182,3 +183,6 @@ Un poste de santé avancé a été construit à Bangou, doté d’une pirogue am
 et toujours soutenu par MDF en médicaments :
 
 {% include gallery id="gallery-bangou" %}
+
+## Photos
+Consultez notre [gallerie photos de nos missions au Mali]({% link photos-mali.md %})
