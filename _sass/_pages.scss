@@ -1,0 +1,25 @@
+.wide {
+  .page {
+    @include breakpoint($large) {
+      padding-right: 0;
+      width: 100%;
+    }
+
+    @include breakpoint($x-large) {
+      padding-right: 0;
+      width: 100%;
+    }
+  }
+
+  .page__related {
+    @include breakpoint($large) {
+      padding-right: 0;
+      width: 100%;
+    }
+
+    @include breakpoint($x-large) {
+      padding-right: 0;
+      width: 100%;
+    }
+  }
+}

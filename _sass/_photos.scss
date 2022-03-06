@@ -1,16 +1,17 @@
-.page-splash-pirogue {
-  .page {
-    &__hero--overlay {
-      @media (min-width: $small) {
-        background-position: center top 48%;
-        aspect-ratio: 3.9;
-      }
+.cover {
+  img {
+    object-fit: cover;
+    aspect-ratio: 1;
+  }
+}
 
-      @media (min-width: $large) {
-        .wrapper {
-          margin-top: 10em;
-        }
-      }
-    }
+.page-text-right-photo {
+  @media (min-width: $small) {
+    display: flex;
+    align-items: center;
+  }
+
+  > * {
+    flex: 1;
   }
 }

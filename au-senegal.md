@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.4"
   overlay_image: "/assets/images/splash-hutte-paille.jpg"
   caption: "© Médecins du Fleuve (Sénégal, 2013)"
-  image_description: ""
+  image_description: "Hutte de Paille dans un village du Sénégal"
 
 title: "Nos actions au Sénégal"
 excerpt: |
@@ -15,6 +15,7 @@ excerpt: |
 
 classes:
   - headings-colored
+  - splash-hutte
   - page-actions-senegal
 
 gallery-contexte:
@@ -234,3 +235,7 @@ Dans le même temps des investissements ont été réalisés :
 * Mise en place d’un projet d’aide à la communauté d’handicapés de Bettenty
 * Construction d’une case de santé à Diadiem 2
 * Construction d’une pirogue ambulance pour le village insulaire de Bossingkang
+
+## Photos
+
+Consultez notre [galerie photos de nos missions au Sénégal]({% link photos-senegal.md %})

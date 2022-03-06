@@ -5,7 +5,7 @@ permalink: /mali
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: "/assets/images/splash-pirogue.jpg"
+  overlay_image: "/assets/images/splash-pirogue-cote.jpg"
   caption: "© Médecins du Fleuve (Mali, 2010)"
   image_description: "La pirogue de Médecins du Fleuve sur le fleuve Niger, au Mali."
 
@@ -13,7 +13,7 @@ title: "Photos de nos missions au Mali"
 
 classes:
   - page-photos
-  - page-splash-pirogue
+  - splash-pirogue-cote
 
 gallery:
     - url: assets/images/photos-mali/medecins-du-fleuve-mali-01.jpg

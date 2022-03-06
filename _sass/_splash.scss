@@ -3,3 +3,72 @@
     font-size: 0.5em;
   }
 }
+
+.splash {
+  &-pirogue {
+    .page {
+      &__hero--overlay {
+        @media (min-width: $small) {
+          background-position: center top 48%;
+          aspect-ratio: 3.9;
+        }
+
+        @media (min-width: $large) {
+          .wrapper {
+            margin-top: 10em;
+          }
+        }
+      }
+    }
+  }
+
+  &-pirogue-cote {
+    .page {
+      &__hero--overlay {
+        @media (min-width: $small) {
+          background-position: center top 65%;
+          aspect-ratio: 4.3;
+        }
+
+        @media (min-width: $large) {
+          .wrapper {
+            margin-top: 12em;
+          }
+        }
+      }
+    }
+  }
+  &-hutte {
+    .page {
+      &__hero--overlay {
+        @media (min-width: $small) {
+          background-position: center top 58%;
+          aspect-ratio: 4.5;
+        }
+
+        @media (min-width: $large) {
+          .wrapper {
+            margin-top: 4em;
+          }
+        }
+      }
+    }
+  }
+
+  &-enfants-pirogue {
+    .page {
+      &__hero--overlay {
+        @media (min-width: $small) {
+          background-position: center top 50%;
+          aspect-ratio: 4;
+        }
+
+        @media (min-width: $large) {
+          .wrapper {
+            margin-top: 9em;
+          }
+        }
+      }
+    }
+  }
+}

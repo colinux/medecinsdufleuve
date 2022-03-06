@@ -15,7 +15,7 @@ excerpt: |
 classes:
   - headings-colored
   - page-actions-mali
-  - page-splash-pirogue
+  - splash-pirogue
 
 gallery-intro:
   - url: /assets/images/actions-mali/mali-carte.png
@@ -185,4 +185,4 @@ et toujours soutenu par MDF en médicaments :
 {% include gallery id="gallery-bangou" %}
 
 ## Photos
-Consultez notre [gallerie photos de nos missions au Mali]({% link photos-mali.md %})
+Consultez notre [galerie photos de nos missions au Mali]({% link photos-mali.md %})
