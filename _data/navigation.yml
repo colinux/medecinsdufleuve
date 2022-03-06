@@ -2,15 +2,18 @@ main:
     - title: "L'association"
       url: /association
 
-    - title: "Nos actions au Sénégal <i>🇸🇳</i>"
+    - title: "Actions au Sénégal <i>🇸🇳</i>"
       url: /au-senegal
 
-    - title: "Nos actions au Mali <i>🇲🇱</i>"
+    - title: "Actions au Mali <i>🇲🇱</i>"
       url: /au-mali
 
 
     - title: "Faire un don <i>♡</i>"
       url: /faire-un-don
+
+    - title: "Missions"
+      url: /missions
 
     - title: "Photos au Mali"
       url: /mali

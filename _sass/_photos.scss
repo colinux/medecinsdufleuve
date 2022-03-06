@@ -15,3 +15,22 @@
     flex: 1;
   }
 }
+
+figure.flex-around {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+
+  > a,
+  > img {
+    width: inherit;
+  }
+}
+
+.max-height-480 {
+  img {
+    width: inherit;
+    max-height: 480px;
+    object-fit: cover;
+  }
+}
