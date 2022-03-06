@@ -21,6 +21,9 @@ main:
     - title: "Partenaires"
       url: /partenariat
 
+    - title: "Événements"
+      url: /evenements
+
     - title: "Contact"
       url: /contact
 
