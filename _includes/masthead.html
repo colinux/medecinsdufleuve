@@ -3,7 +3,7 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
+      <nav id="site-nav" class="greedy-nav" role="navigation">
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
         {% endunless %}
@@ -13,10 +13,25 @@
         </a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
-            <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}"
+            <li class="masthead__menu-item" {% if link.children %} data-with-dropdown="true" {% endif %}>
+              <a href="{% if link.children %}#{% else %}{{ link.url | relative_url }}{% endif %}"
                  {% if link.class %} class="{{ link.class }}"{% endif %}
-                 {% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+                 {% if link.description %} title="{{ link.description }}"{% endif %}
+                 {% if link.children %} aria-haspopup="true"{% endif %}
+                 >{{ link.title }}</a>
+
+              {% if link.children %}
+                <div class="dropdown-wrapper">
+                  <ul class="dropdown" aria-label="submenu">
+                    {%- for sublink in link.children -%}
+                    <li class="masthead__menu-item" data-as-item-text="{{ sublink.complete_title }}">
+                      <a href="{{ sublink.url | relative_url }}"
+                        {% if sublink.description %} title="{{ sublink.description }}"{% endif %}>{{ sublink.title }}</a>
+                    </li>
+                    {%- endfor -%}
+                  </ul>
+                </div>
+              {% endif %}
             </li>
           {%- endfor -%}
         </ul>
