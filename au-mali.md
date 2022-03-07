@@ -136,11 +136,14 @@ De multiples séances d’éducation sanitaire et de sensibilisation à la sant�
 été dispensées lors de chaque mission.
 Les équipes participent aussi à la stratégie avancée de vaccination.
 
+
+<div class="well">
 En 2012 devant la dégradation des conditions de sécurité dans la zone MDF a suspendu l’envoi
 de bénévoles sur place. Au vu de l’adhésion des populations bénéficiaires
 et de l’implication des acteurs locaux, un transfert d’expérience
 et de moyens à une équipe malienne a été mis en place
 pour assurer la continuité de l’action.
+</div>
 
 {% include gallery id="gallery-evaluation" %}
 
