@@ -170,6 +170,17 @@ gallery-mission-35:
     image_path: assets/images/missions/mission-35-201911_6.jpg
     title: ""
     alt: ""
+
+gallery-actu-201903:
+  - url: "/assets/images/missions/diner_spectacle_2019-affiche.png"
+    image_path: "/assets/images/missions/diner_spectacle_2019-affiche.png"
+    title: "Soirée annuelle Diner-Spectacle 9 mars 2019"
+    alt: "Soirée annuelle Diner-Spectacle 9 mars 2019"
+
+  - url: "/assets/images/missions/diner_spectacle_2019-photo.jpg"
+    image_path: "/assets/images/missions/diner_spectacle_2019-photo.jpg"
+    title: "Concert"
+    alt: "Concert"
 ---
 
 # Missions & actualités
@@ -216,6 +227,15 @@ La **construction du logement de la sage-femme de Diama**, financé par Médecin
 
 {% include gallery id="gallery-actu-202003" %}
 
+## 29 février 2020 - Assemblée générale et Soirée annuelle
+
+L’Assemblée Générale a eu lieu le samedi 29 février 2020 dans les locaux
+du Secours Populaire Français 9, rue Froissart PARIS 3ème.
+
+[Télécharger le rapport moral](/assets/rapport_moral_fevrier_2020.pdf){: .btn .btn--primary}
+
+![Soirée annuelle au Bon Bock le 29 février 2020](/assets/images/missions/bon_bock-2020.png){: loading="lazy"}
+
 ## 20 février 2020 — Mission 38
 Dans le delta du Saloum l’équipe s’est déplacée d’îles en îles pour apporter ses soins à plus de cinq cents malades.
 
@@ -251,3 +271,22 @@ Le médecin chef du district s’est joint à l’équipe de Médecins du Fleuve
 permettant un échange d’expériences et un renforcement de la collaboration avec les acteurs locaux de la santé.
 
 {% include gallery id="gallery-mission-35" %}
+
+## 12 mars 2019 — Changement de siège social
+
+L'association a changé l'adresse de son siège :
+
+*MEDECINS DU FLEUVE 249, Rue des Pyrénées 75020 PARIS*
+
+## 9 mars 2019 — Assemblée générale et Soirée annuelle
+
+[Télécharger le rapport moral](/assets/rapport_moral_mars_2019.pdf){: .btn .btn--primary}
+
+{% include gallery id="gallery-actu-201903" %}
+
+<div class="not-wide">
+  <video controls width="100%" preload="metadata" poster="/assets/images/missions/diner_spectacle_2019-poster.png">
+    <source src="/uploads/diner_spectacle_2019.mp4" type="video/mp4">
+    Votre navigateur ne supporte pas les vidéos embarquées.
+  </video>
+</div>

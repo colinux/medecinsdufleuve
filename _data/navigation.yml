@@ -18,9 +18,6 @@ main:
     - title: "Photos au Sénégal"
       url: /senegal
 
-    - title: "Événements"
-      url: /evenements
-
     - title: "Contact"
       url: /contact
 

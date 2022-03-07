@@ -23,3 +23,10 @@
     }
   }
 }
+
+.not-wide {
+  @include breakpoint($medium) {
+    width: calc(66%);
+    margin-left: 17%;
+  }
+}
