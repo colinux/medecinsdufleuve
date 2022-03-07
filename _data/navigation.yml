@@ -1,13 +1,10 @@
 main:
-    - title: "Actions au Sénégal <i>🇸🇳</i>"
-      url: /au-senegal
-
-    - title: "Actions au Mali <i>🇲🇱</i>"
-      url: /au-mali
-
-
     - title: "Faire un don <i>♡</i>"
       url: /faire-un-don
+      class: "btn btn--light-outline"
+
+    - title: "Actions au Sénégal <i>🇸🇳</i>"
+      url: /au-senegal
 
     - title: "Missions"
       url: /missions
@@ -17,6 +14,10 @@ main:
 
     - title: "Photos au Sénégal"
       url: /senegal
+
+    - title: "Actions au Mali <i>🇲🇱</i>"
+      url: /au-mali
+
 
     - title: "Contact"
       url: /contact

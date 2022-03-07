@@ -26,4 +26,25 @@
   .site-title {
     display: none;
   }
+
+  .btn {
+    font-weight: inherit;
+    font-size: inherit;
+  }
+
+  .visible-links {
+    &.btn--light-outline:hover {
+      background-color: darken($background-color, 10%);
+    }
+  }
+
+  .hidden-links {
+    .btn {
+      border: none;
+      text-align: inherit;
+    }
+  }
+}
+.greedy-nav .visible-links {
+  align-items: center;
 }
