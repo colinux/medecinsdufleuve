@@ -1,4 +1,10 @@
 .masthead {
+  font-size: 14px;
+
+  @include breakpoint($x-large) {
+    font-size: 15px;
+  }
+
   &__menu-item {
     i {
       color: $primary-color;
