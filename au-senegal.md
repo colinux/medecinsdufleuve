@@ -118,9 +118,9 @@ gallery-realisations:
       href="/assets/images/actions-senegal/senegal-carte.png"
       >
       <img src="/assets/images/actions-senegal/senegal-carte.png"
-        alt="Carte de la zone d'intervention de Médecins du Fleuve au Sénégal : rives du Sénégal au Nord, Delta du Saloum au Sud">
+        alt="Carte des zones d'interventions de Médecins du Fleuve au Sénégal : rives du Sénégal au Nord, Delta du Saloum au Sud">
     </a>
-    <figcaption>Carte de la zone d'intervention au Sénégal</figcaption>
+    <figcaption>Carte des zones d'interventions au Sénégal</figcaption>
   </figure>
 </div>
 
