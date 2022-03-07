@@ -1,7 +1,4 @@
 main:
-    - title: "L'association"
-      url: /association
-
     - title: "Actions au Sénégal <i>🇸🇳</i>"
       url: /au-senegal
 
@@ -20,9 +17,6 @@ main:
 
     - title: "Photos au Sénégal"
       url: /senegal
-
-    - title: "Partenaires"
-      url: /partenariat
 
     - title: "Événements"
       url: /evenements
