@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /missions
+permalink: /actualites
 
 classes:
   - page-missions
