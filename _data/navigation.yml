@@ -8,19 +8,23 @@ main:
       url: /au-senegal
       description: "Découvrez ce que nous réalisons au Sénégal"
 
+    - title: "Actions au Mali <i>🇲🇱</i>"
+      url: /au-mali
+      description: "Découvrez ce que nous avons réalisé au Mali"
+
     - title: "Actualités"
       url: /actualites
       description: "Missions & actualités de l'association"
 
-    - title: "Photos au Mali"
-      url: /mali
+    - title: "Photos"
+      children:
+        - title: "Au Sénégal"
+          complete_title: "Photos au Sénégal"
+          url: /senegal
 
-    - title: "Photos au Sénégal"
-      url: /senegal
-
-    - title: "Actions au Mali <i>🇲🇱</i>"
-      url: /au-mali
-      description: "Découvrez ce que nous avons réalisé au Mali"
+        - title: "Au Mali"
+          complete_title: "Photos au Mali"
+          url: /mali
 
 
     - title: "Contact"
