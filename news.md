@@ -7,6 +7,46 @@ classes:
   - headings-colored
   - wide
 
+gallery-actu-202111:
+  - url: assets/images/missions/actu-202111_1.jpg
+    image_path: assets/images/missions/actu-202111_1.jpg
+    title: ""
+    alt: ""
+  - url: assets/images/missions/actu-202111_2.jpg
+    image_path: assets/images/missions/actu-202111_2.jpg
+    title: ""
+    alt: ""
+  - url: assets/images/missions/actu-202111_3.jpg
+    image_path: assets/images/missions/actu-202111_3.jpg
+    title: ""
+    alt: ""
+
+gallery-missions-41-42:
+  - url: assets/images/missions/missions-41-42_01.jpg
+    image_path: assets/images/missions/missions-41-42_01.jpg
+    title: ""
+    alt: ""
+  - url: assets/images/missions/missions-41-42_02.jpg
+    image_path: assets/images/missions/missions-41-42_02.jpg
+    title: ""
+    alt: ""
+  - url: assets/images/missions/missions-41-42_03.jpg
+    image_path: assets/images/missions/missions-41-42_03.jpg
+    title: ""
+    alt: ""
+  - url: assets/images/missions/missions-41-42_04.jpg
+    image_path: assets/images/missions/missions-41-42_04.jpg
+    title: ""
+    alt: ""
+  - url: assets/images/missions/missions-41-42_05.jpg
+    image_path: assets/images/missions/missions-41-42_05.jpg
+    title: ""
+    alt: ""
+  - url: assets/images/missions/missions-41-42_06.jpg
+    image_path: assets/images/missions/missions-41-42_06.jpg
+    title: ""
+    alt: ""
+
 gallery-mission-40:
   - url: assets/images/missions/mission-40-202106_1.jpg
     image_path: assets/images/missions/mission-40-202106_1.jpg
@@ -184,6 +224,35 @@ gallery-actu-201903:
 ---
 
 # Missions & actualités
+
+## 19 février 2022 — Assemblée générale
+
+L’assemblée Générale, a eu lieu le samedi 19 février dans les locaux du Secours Populaire à Paris.
+
+Elle a été suivie d’un repas convivial au restaurant le Bon Bock.
+
+[Télécharger le rapport moral](/assets/rapport_moral_fevrier_2022.pdf){: .btn .btn--primary}
+
+## Novembre 2021
+
+Dépisté et suivi par nos équipes, et avec le soutien financier de MDF
+le petit Babacar a pu bénéficier d’une chirurgie cardiaque salvatrice.
+
+{% include gallery id="gallery-actu-202111" %}
+
+## Octobre/Novembre 2021 — Missions 41 et 42
+
+Des rives du fleuve Sénégal au nord du pays aux îles du delta du Saloum,
+les 41ème et 42ème missions de Médecins du Fleuve ont permis de soigner près de 1 500 malades.
+
+{% include gallery id="gallery-missions-41-42" %}
+
+## 9 octobre 2021 — Assemblée générale
+
+L’assemblée Générale, différée en raison de la pandémie,
+a eu lieu le samedi 9 octobre dans les locaux du Secours Populaire à Paris.
+
+[Télécharger le rapport moral](/assets/rapport_moral_octobre_2021.pdf){: .btn .btn--primary}
 
 ## Juin 2021 - Mission 40
 Cette mission de reprise après plus d’un an d’interruption imposée par la pandémie a permis de restaurer nos stocks de médicaments et de délivrer nos soins à plus de 500 malades.

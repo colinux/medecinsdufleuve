@@ -1,5 +1,6 @@
 ---
 layout: splash
+permalink: /au-senegal
 
 header:
   overlay_color: "#000"
@@ -203,7 +204,7 @@ Une petite partie est assurée par l’emport de médicaments achetés en France
 
 ## Réalisations
 
-Depuis 2013, plus de 40 missions ont été conduites au Sénégal, permettant de soigner plus de 15 000 malades
+Depuis 2013, plus de 40 missions ont été conduites au Sénégal, permettant de soigner plus de 20 000 malades
 
 Dans le même temps des investissements ont été réalisés :
 
@@ -211,9 +212,10 @@ Dans le même temps des investissements ont été réalisés :
 * La réhabilitation du dispensaire de Djoudj, entreprise en urgence devant la menace d’effondrement de la toiture
 * La réhabilitation progressive du <a class="image-popup" href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-18.jpg">poste de santé de Débi-Tiguet</a>
 * La remise en état de la case de santé délabrée de Diadiem 1 : <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-19.jpg">avant</a> / <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-20.jpg">après</a>
-* La construction d’<a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-22.jpg">une case en dur</a> pour un jeune handicapé de la lèpre à Diadiem 3 en remplacement de sa <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-21.jpg">hutte de paille</a>
+* La construction d’une case en dur  pour un jeune handicapé de la lèpre à Diadiem 3 en remplacement de sa hutte de paille :  <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-21.jpg">avant</a> / <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-22.jpg">après</a>
 * La construction de la <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-23.jpg">case de santé de Rawette</a>
 * La construction du <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-24.jpg">bloc maternité de Diama</a> (salle d’accouchement, salle de travail, salle de repos, bureau de sage-femme)
+* La construction du <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-25.jpg">poste de santé des Parcs Nationaux de KARANG</a>
 
 {% include gallery id="gallery-realisations" %}
 
@@ -228,11 +230,9 @@ Dans le même temps des investissements ont été réalisés :
 
 ## Perspectives
 
-* Poursuite régulière des missions itinérantes de soins
+* Poursuite régulière des missions itinérantes de soins (4 à 6 par an)
 * Mise en place de missions de soins dentaires (mission inaugurale en mai 2018)
-* Développement d’une synergie d’action avec la Compagnie Agricole de St Louis pour favoriser les investissements sanitaires sur l’aire de Djoudj
 * Financement de la construction du logement de la sage-femme de Diama
-* Mise en place d’un projet d’aide à la communauté d’handicapés de Bettenty
 * Construction d’une case de santé à Diadiem 2
 * Construction d’une pirogue ambulance pour le village insulaire de Bossingkang
 

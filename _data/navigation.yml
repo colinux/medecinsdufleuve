@@ -22,7 +22,7 @@ main:
           complete_title: "Photos au Sénégal"
           url: /senegal
 
-        - title: "Au Mali"
+        - title: "Au Mali (2007-2012)"
           complete_title: "Photos au Mali"
           url: /mali
 

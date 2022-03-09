@@ -1,5 +1,6 @@
 ---
 layout: splash
+permalink: /au-mali
 
 header:
   overlay_color: "#000"
@@ -52,8 +53,6 @@ gallery-population:
     title: "Séance d'éducation sanitaire au Mali"
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-6-b.jpg
     image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-6-b.jpg
-    alt: "Pirogue et population malienne"
-    title: "Pirogue et population malienne"
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-7.jpg
     image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-7.jpg
     alt: "Âne tractant des valises d'équipements médicaux"

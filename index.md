@@ -21,6 +21,8 @@ classes:
 gallery:
   - url: /assets/images/home/medecins-du-fleuve-1.jpg
     image_path: /assets/images/home/medecins-du-fleuve-1.jpg
+    alt: "Médecins du Fleuve au Sénégal"
+    title: "Médecins du Fleuve au Sénégal"
   - url: /assets/images/home/medecins-du-fleuve-2.jpg
     image_path: /assets/images/home/medecins-du-fleuve-2.jpg
     alt: "Médecins du Fleuve"
@@ -29,7 +31,8 @@ gallery:
     alt: "Médecins du Fleuve"
   - url: /assets/images/home/medecins-du-fleuve-4.jpg
     image_path: /assets/images/home/medecins-du-fleuve-4.jpg
-    alt: "Médecins du Fleuve"
+    alt: "Médecins du Fleuve au Sénégal"
+    title: "Médecins du Fleuve au Sénégal"
   - url: /assets/images/home/medecins-du-fleuve-senegal-1.jpg
     image_path: /assets/images/home/medecins-du-fleuve-senegal-1.jpg
     alt: "Médecins du Fleuve au Sénégal"
@@ -50,17 +53,12 @@ gallery:
     image_path: /assets/images/home/medecins-du-fleuve-mali-4.jpg
     alt: "Médecins du Fleuve - Soins au Mali"
     title: "Médecins du Fleuve - Soins au Mali"
+  - url: /assets/images/home/medecins-du-fleuve-senegal-1.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-senegal-1.jpg
+    alt: "Médecins du Fleuve au Sénégal"
+    title: "Médecins du Fleuve au Sénégal"
   - url: /assets/images/home/medecins-du-fleuve-senegal-2.jpg
     image_path: /assets/images/home/medecins-du-fleuve-senegal-2.jpg
-    alt: "Médecins du Fleuve au Sénégal"
-    title: "Médecins du Fleuve au Sénégal"
-  - url: /assets/images/home/medecins-du-fleuve-senegal-3.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-senegal-3.jpg
-    alt: "Médecins du Fleuve au Sénégal"
-    title: "Médecins du Fleuve au Sénégal"
-  - url: /assets/images/home/medecins-du-fleuve-senegal-4.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-senegal-4.jpg
-    alt: "Médecins du Fleuve au Sénégal"
 ---
 
 ## L'Association
@@ -76,7 +74,7 @@ pour permettre un élargissement des pays d’interventions
 
 ## Historique
 
-**En 2007 au MALI**, pour faire face à la situation sanitaire précaire des populations des zones enclavées,
+**De 2007 à 2016 au MALI**, pour faire face à la situation sanitaire précaire des populations des zones enclavées,
 inondables et souvent inaccessibles par la piste du delta intérieur du fleuve Niger,
 les fondateurs de Médecins du Fleuve, riches de leur expérience de 10 ans d’exercice en Afrique,
 eurent l’idée de mettre à profit la voie de circulation naturelle que représente
@@ -86,20 +84,8 @@ le fleuve pour aller au-devant de ces populations riveraines, grâce à une ante
 riveraines défavorisées du Nord, et plus récemment
 en faveur des populations insulaires isolées du Delta du Saloum
 
-{% include image-popup path="/assets/images/zones-interventions.jpg" title="Zones d'intervention de Médecins du Fleuve en Afrique de l'Ouest" %}
+{% include image-popup path="/assets/images/zones-interventions.jpg" title="Zones d'interventions de Médecins du Fleuve en Afrique de l'Ouest" %}
 
-
-## Partenariats
-
-* Parcs Nationaux du Sénégal
-* Fonds de Solidarité Santé Navale
-* Secours Populaire Français
-* Nauti Boy
-* Domino Informatique
-* Région Ile de France
-* Galderma International
-* Unique Properties and Events
-* Pharmacie Européenne Paris Place de Clichy
 
 ## Conseil d'administration
 
@@ -107,13 +93,28 @@ en faveur des populations insulaires isolées du Delta du Saloum
 * Mme Véronique TAILLET Trésorière
 * Dr Hervé DARIE Secrétaire (Membre fondateur)
 * Dr Ousmane FAYE Administrateur
-* Mr Patrick MOREAU Administrateur
-* Mathilde VINCELOT Administratrice
 
-Représentants au Sénégal :
+Représentant au Sénégal :
 * Mr Birama NDIAYE
-* Mme Caroline Hirtz-GAYE
 
 ## Statuts de l'association
 
 [Télécharger les statuts](/assets/statuts.pdf){: .btn .btn--primary}
+
+## Partenariats
+
+* Parcs Nationaux du Sénégal
+* District Sanitaire de Richard-Toll (Sénégal)
+* District Sanitaire de Sokone (Sénégal)
+* La Chaine de l’Espoir
+* Mécénat Chirurgie Cardiaque
+* Agence Ponctuelle 
+* Fonds de Solidarité Santé Navale
+* Secours Populaire Français
+* Nauti Boy
+* Domino Informatique
+* Région Île de France
+* Galderma International
+* Unique Properties and Events
+* Pharmacie Européenne Paris Place de Clichy
+
