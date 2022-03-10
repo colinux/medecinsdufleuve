@@ -448,3 +448,12 @@ gallery:
 ---
 
 {% include gallery id="gallery" class="cover" %}
+
+## Vidéos
+
+{% include video-hosted src="/uploads/MDF-villages-nord-Sénégal.mp4" %}{: .mb-40}
+
+{% include video-hosted src="/uploads/MDF-Djoudj-villages-Sénégal.mp4" %}{: .mb-40}
+
+{% include video-hosted src="/uploads/MDF-delta-Saloum-Sénégal.mp4" %}
+

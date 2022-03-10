@@ -1,4 +1,4 @@
-<div class="">
+<div>
   <video controls preload="metadata" poster="{{ include.poster }}">
     <source src="{{ include.src }}" type="video/mp4">
     Votre navigateur ne supporte pas les vidéos embarquées.

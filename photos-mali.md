@@ -392,3 +392,12 @@ gallery:
 ---
 
 {% include gallery id="gallery" class="cover" %}
+
+## Vidéos
+
+{% include video-hosted src="/uploads/MDF-villages-campements-pêcheurs-Mali.mp4" %}{: .mb-40}
+
+{% include video-hosted src="/uploads/MDF-tempête-fleuve-Niger-Mali.mp4" %}{: .mb-40}
+
+{% include video-hosted src="/uploads/MDF-malnutrition-Mali.mp4" %}
+
