@@ -8,7 +8,5 @@ Dir.glob(mask) do |file|
   puts <<~IMG
     - url: #{file}
       image_path: #{file}
-      title: ""
-      alt: ""
   IMG
 end

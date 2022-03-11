@@ -211,6 +211,28 @@ gallery-mission-35:
     title: ""
     alt: ""
 
+gallery-mission-34:
+  - url: assets/images/missions/mission-34-201906-01.jpg
+    image_path: assets/images/missions/mission-34-201906-01.jpg
+  - url: assets/images/missions/mission-34-201906-02.jpg
+    image_path: assets/images/missions/mission-34-201906-02.jpg
+  - url: assets/images/missions/mission-34-201906-03.jpg
+    image_path: assets/images/missions/mission-34-201906-03.jpg
+
+gallery-actu-201905:
+  - url: assets/images/missions/actu-201905-01.jpg
+    image_path: assets/images/missions/actu-201905-01.jpg
+  - url: assets/images/missions/actu-201905-02.jpg
+    image_path: assets/images/missions/actu-201905-02.jpg
+
+gallery-mission-33:
+  - url: assets/images/missions/mission-33-201905-01.jpg
+    image_path: assets/images/missions/mission-33-201905-01.jpg
+  - url: assets/images/missions/mission-33-201905-02.jpg
+    image_path: assets/images/missions/mission-33-201905-02.jpg
+  - url: assets/images/missions/mission-33-201905-03.jpg
+    image_path: assets/images/missions/mission-33-201905-03.jpg
+
 gallery-actu-201903:
   - url: "/assets/images/missions/diner_spectacle_2019-affiche.png"
     image_path: "/assets/images/missions/diner_spectacle_2019-affiche.png"
@@ -221,6 +243,81 @@ gallery-actu-201903:
     image_path: "/assets/images/missions/diner_spectacle_2019-photo.jpg"
     title: "Concert"
     alt: "Concert"
+
+gallery-actu-201902:
+  - url: assets/images/missions/actu-201902-01.jpg
+    image_path: assets/images/missions/actu-201902-01.jpg
+  - url: assets/images/missions/actu-201902-02.jpg
+    image_path: assets/images/missions/actu-201902-02.jpg
+
+gallery-mission-32:
+  - url: assets/images/missions/mission-32-201902-01.jpg
+    image_path: assets/images/missions/mission-32-201902-01.jpg
+  - url: assets/images/missions/mission-32-201902-02.jpg
+    image_path: assets/images/missions/mission-32-201902-02.jpg
+  - url: assets/images/missions/mission-32-201902-03.jpg
+    image_path: assets/images/missions/mission-32-201902-03.jpg
+  - url: assets/images/missions/mission-32-201902-04.jpg
+    image_path: assets/images/missions/mission-32-201902-04.jpg
+  - url: assets/images/missions/mission-32-201902-05.jpg
+    image_path: assets/images/missions/mission-32-201902-05.jpg
+
+gallery-mission-31:
+  - url: assets/images/missions/mission-31-201902-01.jpg
+    image_path: assets/images/missions/mission-31-201902-01.jpg
+  - url: assets/images/missions/mission-31-201902-02.jpg
+    image_path: assets/images/missions/mission-31-201902-02.jpg
+  - url: assets/images/missions/mission-31-201902-03.jpg
+    image_path: assets/images/missions/mission-31-201902-03.jpg
+
+
+gallery-mission-30-B:
+  - url: assets/images/missions/mission-30-201811-04.jpg
+    image_path: assets/images/missions/mission-30-201811-04.jpg
+  - url: assets/images/missions/mission-30-201811-05.jpg
+    image_path: assets/images/missions/mission-30-201811-05.jpg
+  - url: assets/images/missions/mission-30-201811-06.jpg
+    image_path: assets/images/missions/mission-30-201811-06.jpg
+
+gallery-mission-30-A:
+  - url: assets/images/missions/mission-30-201811-01.jpg
+    image_path: assets/images/missions/mission-30-201811-01.jpg
+  - url: assets/images/missions/mission-30-201811-02.jpg
+    image_path: assets/images/missions/mission-30-201811-02.jpg
+  - url: assets/images/missions/mission-30-201811-03.jpg
+    image_path: assets/images/missions/mission-30-201811-03.jpg
+
+gallery-mission-29:
+  - url: assets/images/missions/mission-29-201810-01.jpg
+    image_path: assets/images/missions/mission-29-201810-01.jpg
+  - url: assets/images/missions/mission-29-201810-02.jpg
+    image_path: assets/images/missions/mission-29-201810-02.jpg
+
+gallery-mission-28:
+  - url: assets/images/missions/mission-28-201805-01.jpg
+    image_path: assets/images/missions/mission-28-201805-01.jpg
+  - url: assets/images/missions/mission-28-201805-02.jpg
+    image_path: assets/images/missions/mission-28-201805-02.jpg
+
+gallery-mission-27:
+  - url: assets/images/missions/mission-27-201804-01.jpg
+    image_path: assets/images/missions/mission-27-201804-01.jpg
+  - url: assets/images/missions/mission-27-201804-02.jpg
+    image_path: assets/images/missions/mission-27-201804-02.jpg
+  - url: assets/images/missions/mission-27-201804-03.jpg
+    image_path: assets/images/missions/mission-27-201804-03.jpg
+
+gallery-mission-26:
+  - url: assets/images/missions/mission-26-201804-01.jpg
+    image_path: assets/images/missions/mission-26-201804-01.jpg
+  - url: assets/images/missions/mission-26-201804-02.jpg
+    image_path: assets/images/missions/mission-26-201804-02.jpg
+
+gallery-mission-25:
+  - url: assets/images/missions/mission-25-201802-01.jpg
+    image_path: assets/images/missions/mission-25-201802-01.jpg
+  - url: assets/images/missions/mission-25-201802-02.jpg
+    image_path: assets/images/missions/mission-25-201802-02.jpg
 ---
 
 # Missions & actualités
@@ -341,6 +438,40 @@ permettant un échange d’expériences et un renforcement de la collaboration a
 
 {% include gallery id="gallery-mission-35" %}
 
+## Juin 2019 — Mission 34
+Pendant deux semaines, plus de cinq cents malades ont bénéficié des soins de
+l'équipe mobile de Médecins du Fleuve dans les postes et cases de santé de la
+zone de Diama et de la Langue de Barbarie.
+
+{% include gallery id="gallery-mission-34" %}
+
+## 30 mai 2019
+
+La construction du **dispensaire de Karang** financée par l'Association progresse
+selon le planning prévu; sa réception devrait se faire durant l'été.
+
+{% include gallery id="gallery-actu-201905" %}
+
+## Mai 2019 — Mission 33
+
+L'équipe de Médecins du Fleuve s'est déplacée d'îles en îles au sud du Delta du Saloum
+pour consulter au sein des dispensaires isolés,
+en collaboration avec les agents de santé locaux.
+Plus de quatre cents malades ont pu ainsi être soignés.
+
+{% include gallery id="gallery-mission-33" %}
+
+## 8 avril 2019
+
+**La jeune Faissal** que nous avons fait opérer du cœur à Dakar avec le concours
+de la Chaine de l’Espoir va bien et a quitté l’hôpital pour la maison de convalescence de l’enfance.
+Comme prévu, MDF prend maintenant en charge les suites opératoires,
+la surveillance et le traitement au long cours que nécessite son état
+afin qu’elle puisse reprendre une vie normale et sa scolarité.
+La prochaine mission dans un mois permettra de mettre en place ce suivi.
+
+{% include image-popup path="/assets/images/missions/actu-201904_1.jpg" classes="flex-around max-height-480" %}
+
 ## 12 mars 2019 — Changement de siège social
 
 L'association a changé l'adresse de son siège :
@@ -359,3 +490,113 @@ L'association a changé l'adresse de son siège :
     Votre navigateur ne supporte pas les vidéos embarquées.
   </video>
 </div>
+
+## 22 février 2019
+
+**Projet eau potable à Diadiem 1**. Lors de la mission 32,
+la **FONDATION CODEGAZ** porteuse du projet sur initiative de Médecins du Fleuve,
+s’est rendue sur place pour réaliser un audit de la situation.
+Elle a pris contact avec les différents organismes d’état et les entreprises locales
+en vue de lancer l’appel d’offre pour réaliser la station de pompage,
+de traitement et de distribution de l’eau dans tout le village.
+
+{% include gallery id="gallery-actu-201902" %}
+
+## Février 2019 — Mission 32
+
+Près de 600 malades ont consulté auprès des trois médecins de l’équipe dans
+les postes de santé de Djoudj, Débi-Tiguet, Diadiem 1, Diama,
+et pour la première fois au niveau du poste de santé de Degou-Niaye
+géré par le Parc National de la Langue de Barbarie.
+
+Douze malades ont bénéficié de la prise en charge financière de leur évacuation
+vers l’Hôpital de St Louis ou de leur bilan biologique ou radiologique.
+A Diama, la mission a pu constater l’avancement des travaux de construction
+du logement de la sage-femme
+
+{% include gallery id="gallery-mission-32" %}
+
+## Février 2019 — Mission 31
+
+L’équipe médicale a prodigué ses soins auprès de 460 malades sur 3 sites insulaires
+du delta du Saloum atteints en pirogue grâce au bateau et au piroguier du Parc National.
+
+A Bettenty Martine et la sage-femme ont animé une séance d’éducation
+nutritionnelle au profit des mères de jeunes enfants.
+
+Au cours de cette mission la rencontre avec l’entrepreneur a permis
+de préciser les conditions du contrat de construction du poste de santé de Karang.
+
+{% include gallery id="gallery-mission-31" %}
+
+## 13 novembre 2018 — Mission 30 (Nord)
+
+La seconde partie de la 30ème mission a ciblé les villages habituels du nord.
+A Diama, Djoudj, et Débi-Tiguet, 357 malades ont été soignés,
+et quatre d’entre eux ont bénéficié d’une prise en charge de leur évacuation
+pour hospitalisation ou examens complémentaires.
+La poursuite des démarches exploratoires dans la région
+laisse entrevoir la possibilité d’étendre l’action de MDF vers les villages de Degounaye et de Mouit.
+
+{% include gallery id="gallery-mission-30-B" class="max-height-480" %}
+
+## 3 novembre 2018 — Mission 30 (Saloum)
+
+La première partie de la 30ème mission a été consacrée aux villages insulaires isolés,
+en partenariat avec le Parc National du Delta du Saloum.
+Le programme des déplacements en pirogue a été quelque peu contraint par les impératifs des marées,
+et entravé par une panne de moteur de la pirogue.
+Cependant 281 malades ont bénéficié de soins, et le poste de santé de Bossinkang a été ajouté aux postes soutenus par MDF.
+
+{% include gallery id="gallery-mission-30-A" %}
+
+## Octobre 2018 — Mission 29
+Cette 29ème mission s’est déroulée dans des conditions rendues difficiles
+par une atmosphère particulièrement chaude et moite, et un hébergement inconfortable.
+Elle a permis de prodiguer des soins à de très nombreux malades
+(plus de 700, dont ¼ de jeunes enfants) en raison d’un contexte
+d’épidémie d’infections respiratoires.
+A Diama, l’équipe a été confrontée à un nombre inhabituel de cas de malnutrition sévère.
+
+
+{% include gallery id="gallery-mission-29" %}
+
+
+## Mai 2018 — Mission 28
+
+Avec l’appui des moyens des Parcs nationaux, l’équipe de la 28ème mission
+a navigué vers les postes de santé insulaires
+isolés du sud du delta du Saloum,
+et près de quatre cents malades ont bénéficié de ses soins.
+
+{% include gallery id="gallery-mission-28" %}
+
+## Avril 2018 — Mission 27
+
+La 27ème mission a été consacrée à la mise en place de la première mission
+dentaire en collaboration avec nos consœurs italiennes.
+Extractions et soins conservateurs ont pu être pratiqués à la plus grande
+satisfaction des populations grâce au matériel mobile spécifique acquis par MDF.
+Des séances d’éducation en hygiène dentaire ont été organisées au profit des enfants
+
+{% include gallery id="gallery-mission-27" %}
+
+## Avril 2018 — Mission 26
+
+Au cours de la 26ème mission, au Nord dans un premier temps
+puis au sud dans les villages insulaires du delta du Saloum,
+cinq cent cinquante consultations ont été données.
+Six malades ont bénéficié d’une prise en charge pour un bilan hospitalier
+ou une intervention chirurgicale.
+
+{% include gallery id="gallery-mission-26" %}
+
+## Février 2018 — Mission 25
+
+La 25ème mission au Sénégal dans les villages du nord a permis de prodiguer
+des soins à plus de six cents malades et d’assurer la prise
+en charge de l’évacuation et des soins hospitaliers de trois d’entre eux.
+Elle a été l’occasion de mesurer l’impact sanitaire
+de l’absence d’accès à l’eau potable sur les villages de Diadiem 1 et 3.
+
+{% include gallery id="gallery-mission-25" %}
