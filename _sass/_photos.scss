@@ -16,14 +16,36 @@
   }
 }
 
-figure.flex-around {
-  display: flex;
-  justify-content: center;
-  gap: 24px;
+figure {
+  @media (min-width: $small) {
+    &.half,
+    &.third {
+      display: grid;
+      grid-gap: 20px;
+      justify-content: space-between;
 
-  > a,
-  > img {
-    width: inherit;
+      & > a,
+      & > img {
+        width: inherit;
+      }
+    }
+
+    &.half {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    &.third {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    &.flex-around {
+      justify-content: space-evenly;
+      grid-template-columns: auto auto;
+    }
+  }
+
+  a:hover {
+    scale: 1.01;
   }
 }
 
