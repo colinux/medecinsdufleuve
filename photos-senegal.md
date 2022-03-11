@@ -445,6 +445,14 @@ gallery:
     image_path: assets/images/photos-senegal/medecins-du-fleuve-senegal-107.jpg
     title: ""
     alt: ""
+  - url: assets/images/photos-senegal/medecins-du-fleuve-senegal-108.jpg
+    image_path: assets/images/photos-senegal/medecins-du-fleuve-senegal-108.jpg
+    title: ""
+    alt: ""
+  - url: assets/images/photos-senegal/medecins-du-fleuve-senegal-109.jpg
+    image_path: assets/images/photos-senegal/medecins-du-fleuve-senegal-109.jpg
+    title: ""
+    alt: ""
 ---
 
 {% include gallery id="gallery" class="cover" %}
