@@ -28,8 +28,8 @@ Un reçu fiscal vous sera adressé en début d’année civile.
 
 ## Paiement par Carte Bancaire
 
-[Faire un don en ligne]({{ site.hello_asso_deeplink }}){: .btn .btn--primary .btn--large}  
-Paiement par CB sécurisé et gratuit via [HelloAsso]({{ site.hello_asso_deeplink }}).
+<a href="{{ site.hello_asso_deeplink }}" class="btn btn--primary btn--large" target="_blank" rel="noopener">Faire un don en ligne</a>  
+Paiement par CB sécurisé et gratuit via <a href="{{ site.hello_asso_deeplink }}" target="_blank" rel="noopener">HelloAsso</a>.
 
 
 ## Paiement par chèque
