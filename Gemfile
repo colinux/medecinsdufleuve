@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -7,24 +7,25 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.2.1"
+gem 'jekyll', '~> 4.2.1'
 
 # Theme
-gem "minimal-mistakes-jekyll", "~> 4"
+gem 'minimal-mistakes-jekyll', '~> 4'
 
-gem "jekyll-include-cache"
+gem 'jekyll-include-cache'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-data"
+  gem 'jekyll-data'
+  gem 'jekyll-feed', '~> 0.12'
+  gem 'jekyll-redirect-from'
 end
 
 group :development do
-  gem "webrick"
+  gem 'webrick'
 end
 
-gem "standard", group: [:development, :test]
+gem 'standard', group: %i[development test]

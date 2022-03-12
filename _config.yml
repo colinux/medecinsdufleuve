@@ -51,6 +51,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-data
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
