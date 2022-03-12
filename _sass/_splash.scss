@@ -10,12 +10,12 @@
       &__hero--overlay {
         @media (min-width: $small) {
           background-position: center top 32%;
-          aspect-ratio: 3.7;
+          aspect-ratio: 3.6;
         }
 
         @media (min-width: $large) {
           .wrapper {
-            margin-top: 11em;
+            margin-top: 13em;
           }
         }
       }

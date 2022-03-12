@@ -53,12 +53,18 @@ gallery:
     image_path: /assets/images/home/medecins-du-fleuve-mali-4.jpg
     alt: "Médecins du Fleuve - Soins au Mali"
     title: "Médecins du Fleuve - Soins au Mali"
-  - url: /assets/images/home/medecins-du-fleuve-senegal-1.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-senegal-1.jpg
-    alt: "Médecins du Fleuve au Sénégal"
-    title: "Médecins du Fleuve au Sénégal"
   - url: /assets/images/home/medecins-du-fleuve-senegal-2.jpg
     image_path: /assets/images/home/medecins-du-fleuve-senegal-2.jpg
+    alt: "Médecins du Fleuve au Sénégal"
+    title: "Médecins du Fleuve au Sénégal"
+  - url: /assets/images/home/medecins-du-fleuve-senegal-3.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-senegal-3.jpg
+    alt: "Médecins du Fleuve au Sénégal"
+    title: "Médecins du Fleuve au Sénégal"
+  - url: /assets/images/home/medecins-du-fleuve-senegal-4.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-senegal-4.jpg
+    alt: "Médecins du Fleuve au Sénégal"
+    title: "Médecins du Fleuve au Sénégal"
 ---
 
 ## L'Association
@@ -118,3 +124,7 @@ Représentant au Sénégal :
 * Unique Properties and Events
 * Pharmacie Européenne Paris Place de Clichy
 
+Si vous avez des projets de voyage, optez pour une agence solidaire
+qui soutient Médecins du Fleuve en reversant une partie
+du prix du voyage : <a href="http://soleader.solutionsplus.ovh/affiliation/medecins-du-fleuve-association/13" target="_blank" rel="noopener">Voyage So-Leader</a>.
+{: .well}
