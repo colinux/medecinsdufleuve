@@ -25,49 +25,49 @@ classes:
 
 gallery:
   - url: /assets/images/home/medecins-du-fleuve-1.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-1.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-1.thumb.jpg
     alt: "Médecins du Fleuve au Sénégal"
     title: "Médecins du Fleuve au Sénégal"
   - url: /assets/images/home/medecins-du-fleuve-2.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-2.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-2.thumb.jpg
     alt: "Médecins du Fleuve"
   - url: /assets/images/home/medecins-du-fleuve-3.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-3.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-3.thumb.jpg
     alt: "Médecins du Fleuve"
   - url: /assets/images/home/medecins-du-fleuve-4.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-4.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-4.thumb.jpg
     alt: "Médecins du Fleuve au Sénégal"
     title: "Médecins du Fleuve au Sénégal"
   - url: /assets/images/home/medecins-du-fleuve-senegal-1.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-senegal-1.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-senegal-1.thumb.jpg
     alt: "Médecins du Fleuve au Sénégal"
     title: "Médecins du Fleuve au Sénégal"
   - url: /assets/images/home/medecins-du-fleuve-mali-1.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-mali-1.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-mali-1.thumb.jpg
     alt: "Médecins du Fleuve au Mali"
     title: "Médecins du Fleuve au Mali"
   - url: /assets/images/home/medecins-du-fleuve-mali-2.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-mali-2.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-mali-2.thumb.jpg
     alt: "Médecins du Fleuve au Mali"
     title: "Médecins du Fleuve au Mali"
   - url: /assets/images/home/medecins-du-fleuve-mali-3.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-mali-3.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-mali-3.thumb.jpg
     alt: "Médecins du Fleuve - Prévention au Mali"
     title: "Médecins du Fleuve - Prévention au Mali"
   - url: /assets/images/home/medecins-du-fleuve-mali-4.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-mali-4.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-mali-4.thumb.jpg
     alt: "Médecins du Fleuve - Soins au Mali"
     title: "Médecins du Fleuve - Soins au Mali"
   - url: /assets/images/home/medecins-du-fleuve-senegal-2.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-senegal-2.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-senegal-2.thumb.jpg
     alt: "Médecins du Fleuve au Sénégal"
     title: "Médecins du Fleuve au Sénégal"
   - url: /assets/images/home/medecins-du-fleuve-senegal-3.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-senegal-3.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-senegal-3.thumb.jpg
     alt: "Médecins du Fleuve au Sénégal"
     title: "Médecins du Fleuve au Sénégal"
   - url: /assets/images/home/medecins-du-fleuve-senegal-4.jpg
-    image_path: /assets/images/home/medecins-du-fleuve-senegal-4.jpg
+    image_path: /assets/images/home/medecins-du-fleuve-senegal-4.thumb.jpg
     alt: "Médecins du Fleuve au Sénégal"
     title: "Médecins du Fleuve au Sénégal"
 ---

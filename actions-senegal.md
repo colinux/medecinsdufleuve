@@ -22,94 +22,94 @@ classes:
 
 gallery-contexte:
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-03.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-03.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-03.thumb.jpg
     alt: ""
     title: ""
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-04.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-04.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-04.thumb.jpg
     alt: ""
     title: ""
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-05.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-05.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-05.thumb.jpg
     alt: ""
     title: ""
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-06.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-06.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-06.thumb.jpg
     alt: ""
     title: ""
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-07.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-07.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-07.thumb.jpg
     alt: ""
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-08.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-08.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-08.thumb.jpg
     alt: ""
     title: ""
 
 gallery-objectifs:
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-09.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-09.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-09.thumb.jpg
     alt: ""
     title: ""
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-10.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-10.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-10.thumb.jpg
     alt: ""
     title: ""
 
 
 gallery-moyens:
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-11.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-11.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-11.thumb.jpg
     alt: ""
     title: ""
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-12.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-12.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-12.thumb.jpg
     alt: ""
     title: ""
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-13.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-13.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-13.thumb.jpg
     alt: ""
     title: ""
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-14.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-14.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-14.thumb.jpg
     alt: ""
     title: ""
 
 
 gallery-realisations:
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-15.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-15.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-15.thumb.jpg
     alt: ""
     title: ""
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-17.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-17.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-17.thumb.jpg
     alt: "Moto-tricycle aménagée en ambulance"
     title: "Moto-tricycle aménagée en ambulance"
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-18.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-18.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-18.thumb.jpg
     alt: "Poste de santé de Débi-Tiguet"
     title: "Poste de santé de Débi-Tiguet"
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-19.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-19.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-19.thumb.jpg
     alt: "Case de santé de Diadiem 1 avant rénovation"
     title: "Case de santé de Diadiem 1 avant rénovation"
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-20.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-20.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-20.thumb.jpg
     alt: "Case de santé de Diadiem 1 après rénovation"
     title: "Case de santé de Diadiem 1 après rénovation"
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-21.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-21.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-21.thumb.jpg
     alt: "Hutte de paille"
     title: ""
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-22.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-22.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-22.thumb.jpg
     alt: "Construction d'une case pour un jeune handicapé de la lèpre à Diadiem 3"
     title: "Construction d'une case pour un jeune handicapé de la lèpre à Diadiem 3"
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-23.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-23.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-23.thumb.jpg
     alt: "Case de santé de Rawette construite par l'association"
     title: "Case de santé de Rawette construite par l'association"
   - url: /assets/images/actions-senegal/medecins-du-fleuve-senegal-25.jpg
-    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-25.jpg
+    image_path: /assets/images/actions-senegal/medecins-du-fleuve-senegal-25.thumb.jpg
     alt: "Poste de santé des Parcs Nationaux de KARANG"
     title: "Poste de santé des Parcs Nationaux de KARANG"
 ---
@@ -132,7 +132,7 @@ gallery-realisations:
   <a class="image-popup"
     href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-01.jpg"
   >
-    <img src="/assets/images/actions-senegal/medecins-du-fleuve-senegal-01.jpg" alt="">
+    <img src="/assets/images/actions-senegal/medecins-du-fleuve-senegal-01.thumb.jpg" alt="">
   </a>
 </figure>
 
@@ -225,7 +225,7 @@ Dans le même temps des investissements ont été réalisés :
   <a href="/assets/images/actions-senegal/medecins-du-fleuve-senegal-24.jpg"
     title="Maternité construite à Diama"
   >
-    <img src="/assets/images/actions-senegal/medecins-du-fleuve-senegal-24.jpg" alt="Maternité construite à Diama">
+    <img src="/assets/images/actions-senegal/medecins-du-fleuve-senegal-24.thumb.jpg" alt="Maternité construite à Diama">
   </a>
 </figure>
 

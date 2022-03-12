@@ -12,229 +12,229 @@ classes:
 
 gallery-actu-202111:
   - url: assets/images/missions/actu-202111_1.jpg
-    image_path: assets/images/missions/actu-202111_1.jpg
+    image_path: assets/images/missions/actu-202111_1.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/actu-202111_2.jpg
-    image_path: assets/images/missions/actu-202111_2.jpg
+    image_path: assets/images/missions/actu-202111_2.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/actu-202111_3.jpg
-    image_path: assets/images/missions/actu-202111_3.jpg
+    image_path: assets/images/missions/actu-202111_3.thumb.jpg
     title: ""
     alt: ""
 
 gallery-missions-41-42:
   - url: assets/images/missions/missions-41-42_01.jpg
-    image_path: assets/images/missions/missions-41-42_01.jpg
+    image_path: assets/images/missions/missions-41-42_01.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/missions-41-42_02.jpg
-    image_path: assets/images/missions/missions-41-42_02.jpg
+    image_path: assets/images/missions/missions-41-42_02.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/missions-41-42_03.jpg
-    image_path: assets/images/missions/missions-41-42_03.jpg
+    image_path: assets/images/missions/missions-41-42_03.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/missions-41-42_04.jpg
-    image_path: assets/images/missions/missions-41-42_04.jpg
+    image_path: assets/images/missions/missions-41-42_04.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/missions-41-42_05.jpg
-    image_path: assets/images/missions/missions-41-42_05.jpg
+    image_path: assets/images/missions/missions-41-42_05.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/missions-41-42_06.jpg
-    image_path: assets/images/missions/missions-41-42_06.jpg
+    image_path: assets/images/missions/missions-41-42_06.thumb.jpg
     title: ""
     alt: ""
 
 gallery-mission-40:
   - url: assets/images/missions/mission-40-202106_1.jpg
-    image_path: assets/images/missions/mission-40-202106_1.jpg
+    image_path: assets/images/missions/mission-40-202106_1.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-40-202106_2.jpg
-    image_path: assets/images/missions/mission-40-202106_2.jpg
+    image_path: assets/images/missions/mission-40-202106_2.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-40-202106_3.jpg
-    image_path: assets/images/missions/mission-40-202106_3.jpg
+    image_path: assets/images/missions/mission-40-202106_3.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-40-202106_4.jpg
-    image_path: assets/images/missions/mission-40-202106_4.jpg
+    image_path: assets/images/missions/mission-40-202106_4.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-40-202106_5.jpg
-    image_path: assets/images/missions/mission-40-202106_5.jpg
+    image_path: assets/images/missions/mission-40-202106_5.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-40-202106_6.jpg
-    image_path: assets/images/missions/mission-40-202106_6.jpg
+    image_path: assets/images/missions/mission-40-202106_6.thumb.jpg
     title: ""
     alt: ""
 
 gallery-actu-202004:
   - url: assets/images/missions/actu-202004_1.jpg
-    image_path: assets/images/missions/actu-202004_1.jpg
+    image_path: assets/images/missions/actu-202004_1.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/actu-202004_2.jpg
-    image_path: assets/images/missions/actu-202004_2.jpg
+    image_path: assets/images/missions/actu-202004_2.thumb.jpg
     title: ""
     alt: ""
 
 gallery-mission-39:
   - url: assets/images/missions/mission-39-202003_1.jpg
-    image_path: assets/images/missions/mission-39-202003_1.jpg
+    image_path: assets/images/missions/mission-39-202003_1.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-39-202003_2.jpg
-    image_path: assets/images/missions/mission-39-202003_2.jpg
+    image_path: assets/images/missions/mission-39-202003_2.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-39-202003_3.jpg
-    image_path: assets/images/missions/mission-39-202003_3.jpg
+    image_path: assets/images/missions/mission-39-202003_3.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-39-202003_4.jpg
-    image_path: assets/images/missions/mission-39-202003_4.jpg
+    image_path: assets/images/missions/mission-39-202003_4.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-39-202003_5.jpg
-    image_path: assets/images/missions/mission-39-202003_5.jpg
+    image_path: assets/images/missions/mission-39-202003_5.thumb.jpg
     title: ""
     alt: ""
 
 
 gallery-actu-202003:
   - url: assets/images/missions/actu-202003_1.jpg
-    image_path: assets/images/missions/actu-202003_1.jpg
+    image_path: assets/images/missions/actu-202003_1.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/actu-202003_2.jpg
-    image_path: assets/images/missions/actu-202003_2.jpg
+    image_path: assets/images/missions/actu-202003_2.thumb.jpg
     title: ""
     alt: ""
 
 gallery-mission-38:
   - url: assets/images/missions/mission-38-202002_1.jpg
-    image_path: assets/images/missions/mission-38-202002_1.jpg
+    image_path: assets/images/missions/mission-38-202002_1.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-38-202002_2.jpg
-    image_path: assets/images/missions/mission-38-202002_2.jpg
+    image_path: assets/images/missions/mission-38-202002_2.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-38-202002_3.jpg
-    image_path: assets/images/missions/mission-38-202002_3.jpg
+    image_path: assets/images/missions/mission-38-202002_3.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-38-202002_4.jpg
-    image_path: assets/images/missions/mission-38-202002_4.jpg
+    image_path: assets/images/missions/mission-38-202002_4.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-38-202002_5.jpg
-    image_path: assets/images/missions/mission-38-202002_5.jpg
+    image_path: assets/images/missions/mission-38-202002_5.thumb.jpg
     title: ""
     alt: ""
 
 gallery-mission-37:
   - url: assets/images/missions/mission-37-202002_1.jpg
-    image_path: assets/images/missions/mission-37-202002_1.jpg
+    image_path: assets/images/missions/mission-37-202002_1.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-37-202002_2.jpg
-    image_path: assets/images/missions/mission-37-202002_2.jpg
+    image_path: assets/images/missions/mission-37-202002_2.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-37-202002_3.jpg
-    image_path: assets/images/missions/mission-37-202002_3.jpg
+    image_path: assets/images/missions/mission-37-202002_3.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-37-202002_4.jpg
-    image_path: assets/images/missions/mission-37-202002_4.jpg
+    image_path: assets/images/missions/mission-37-202002_4.thumb.jpg
     title: ""
     alt: ""
 
 gallery-mission-36:
   - url: assets/images/missions/mission-36-201912_1.jpg
-    image_path: assets/images/missions/mission-36-201912_1.jpg
+    image_path: assets/images/missions/mission-36-201912_1.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-36-201912_2.jpg
-    image_path: assets/images/missions/mission-36-201912_2.jpg
+    image_path: assets/images/missions/mission-36-201912_2.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-36-201912_3.jpg
-    image_path: assets/images/missions/mission-36-201912_3.jpg
+    image_path: assets/images/missions/mission-36-201912_3.thumb.jpg
     title: ""
     alt: ""
 
 gallery-actu-201911:
   - url: assets/images/missions/actu-201911_1.jpg
-    image_path: assets/images/missions/actu-201911_1.jpg
+    image_path: assets/images/missions/actu-201911_1.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/actu-201911_2.jpg
-    image_path: assets/images/missions/actu-201911_2.jpg
+    image_path: assets/images/missions/actu-201911_2.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/actu-201911_3.jpg
-    image_path: assets/images/missions/actu-201911_3.jpg
+    image_path: assets/images/missions/actu-201911_3.thumb.jpg
     title: ""
     alt: ""
 
 
 gallery-mission-35:
   - url: assets/images/missions/mission-35-201911_1.jpg
-    image_path: assets/images/missions/mission-35-201911_1.jpg
+    image_path: assets/images/missions/mission-35-201911_1.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-35-201911_2.jpg
-    image_path: assets/images/missions/mission-35-201911_2.jpg
+    image_path: assets/images/missions/mission-35-201911_2.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-35-201911_3.jpg
-    image_path: assets/images/missions/mission-35-201911_3.jpg
+    image_path: assets/images/missions/mission-35-201911_3.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-35-201911_4.jpg
-    image_path: assets/images/missions/mission-35-201911_4.jpg
+    image_path: assets/images/missions/mission-35-201911_4.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-35-201911_5.jpg
-    image_path: assets/images/missions/mission-35-201911_5.jpg
+    image_path: assets/images/missions/mission-35-201911_5.thumb.jpg
     title: ""
     alt: ""
   - url: assets/images/missions/mission-35-201911_6.jpg
-    image_path: assets/images/missions/mission-35-201911_6.jpg
+    image_path: assets/images/missions/mission-35-201911_6.thumb.jpg
     title: ""
     alt: ""
 
 gallery-mission-34:
   - url: assets/images/missions/mission-34-201906-01.jpg
-    image_path: assets/images/missions/mission-34-201906-01.jpg
+    image_path: assets/images/missions/mission-34-201906-01.thumb.jpg
   - url: assets/images/missions/mission-34-201906-02.jpg
-    image_path: assets/images/missions/mission-34-201906-02.jpg
+    image_path: assets/images/missions/mission-34-201906-02.thumb.jpg
   - url: assets/images/missions/mission-34-201906-03.jpg
-    image_path: assets/images/missions/mission-34-201906-03.jpg
+    image_path: assets/images/missions/mission-34-201906-03.thumb.jpg
 
 gallery-actu-201905:
   - url: assets/images/missions/actu-201905-01.jpg
-    image_path: assets/images/missions/actu-201905-01.jpg
+    image_path: assets/images/missions/actu-201905-01.thumb.jpg
   - url: assets/images/missions/actu-201905-02.jpg
-    image_path: assets/images/missions/actu-201905-02.jpg
+    image_path: assets/images/missions/actu-201905-02.thumb.jpg
 
 gallery-mission-33:
   - url: assets/images/missions/mission-33-201905-01.jpg
-    image_path: assets/images/missions/mission-33-201905-01.jpg
+    image_path: assets/images/missions/mission-33-201905-01.thumb.jpg
   - url: assets/images/missions/mission-33-201905-02.jpg
-    image_path: assets/images/missions/mission-33-201905-02.jpg
+    image_path: assets/images/missions/mission-33-201905-02.thumb.jpg
   - url: assets/images/missions/mission-33-201905-03.jpg
-    image_path: assets/images/missions/mission-33-201905-03.jpg
+    image_path: assets/images/missions/mission-33-201905-03.thumb.jpg
 
 gallery-actu-201903:
   - url: "/assets/images/missions/diner_spectacle_2019-affiche.png"
@@ -243,84 +243,84 @@ gallery-actu-201903:
     alt: "Soirée annuelle Diner-Spectacle 9 mars 2019"
 
   - url: "/assets/images/missions/diner_spectacle_2019-photo.jpg"
-    image_path: "/assets/images/missions/diner_spectacle_2019-photo.jpg"
+    image_path: "/assets/images/missions/diner_spectacle_2019-photo.thumb.jpg"
     title: "Concert"
     alt: "Concert"
 
 gallery-actu-201902:
   - url: assets/images/missions/actu-201902-01.jpg
-    image_path: assets/images/missions/actu-201902-01.jpg
+    image_path: assets/images/missions/actu-201902-01.thumb.jpg
   - url: assets/images/missions/actu-201902-02.jpg
-    image_path: assets/images/missions/actu-201902-02.jpg
+    image_path: assets/images/missions/actu-201902-02.thumb.jpg
 
 gallery-mission-32:
   - url: assets/images/missions/mission-32-201902-01.jpg
-    image_path: assets/images/missions/mission-32-201902-01.jpg
+    image_path: assets/images/missions/mission-32-201902-01.thumb.jpg
   - url: assets/images/missions/mission-32-201902-02.jpg
-    image_path: assets/images/missions/mission-32-201902-02.jpg
+    image_path: assets/images/missions/mission-32-201902-02.thumb.jpg
   - url: assets/images/missions/mission-32-201902-03.jpg
-    image_path: assets/images/missions/mission-32-201902-03.jpg
+    image_path: assets/images/missions/mission-32-201902-03.thumb.jpg
   - url: assets/images/missions/mission-32-201902-04.jpg
-    image_path: assets/images/missions/mission-32-201902-04.jpg
+    image_path: assets/images/missions/mission-32-201902-04.thumb.jpg
   - url: assets/images/missions/mission-32-201902-05.jpg
-    image_path: assets/images/missions/mission-32-201902-05.jpg
+    image_path: assets/images/missions/mission-32-201902-05.thumb.jpg
 
 gallery-mission-31:
   - url: assets/images/missions/mission-31-201902-01.jpg
-    image_path: assets/images/missions/mission-31-201902-01.jpg
+    image_path: assets/images/missions/mission-31-201902-01.thumb.jpg
   - url: assets/images/missions/mission-31-201902-02.jpg
-    image_path: assets/images/missions/mission-31-201902-02.jpg
+    image_path: assets/images/missions/mission-31-201902-02.thumb.jpg
   - url: assets/images/missions/mission-31-201902-03.jpg
-    image_path: assets/images/missions/mission-31-201902-03.jpg
+    image_path: assets/images/missions/mission-31-201902-03.thumb.jpg
 
 
 gallery-mission-30-B:
   - url: assets/images/missions/mission-30-201811-04.jpg
-    image_path: assets/images/missions/mission-30-201811-04.jpg
+    image_path: assets/images/missions/mission-30-201811-04.thumb.jpg
   - url: assets/images/missions/mission-30-201811-05.jpg
-    image_path: assets/images/missions/mission-30-201811-05.jpg
+    image_path: assets/images/missions/mission-30-201811-05.thumb.jpg
   - url: assets/images/missions/mission-30-201811-06.jpg
-    image_path: assets/images/missions/mission-30-201811-06.jpg
+    image_path: assets/images/missions/mission-30-201811-06.thumb.jpg
 
 gallery-mission-30-A:
   - url: assets/images/missions/mission-30-201811-01.jpg
-    image_path: assets/images/missions/mission-30-201811-01.jpg
+    image_path: assets/images/missions/mission-30-201811-01.thumb.jpg
   - url: assets/images/missions/mission-30-201811-02.jpg
-    image_path: assets/images/missions/mission-30-201811-02.jpg
+    image_path: assets/images/missions/mission-30-201811-02.thumb.jpg
   - url: assets/images/missions/mission-30-201811-03.jpg
-    image_path: assets/images/missions/mission-30-201811-03.jpg
+    image_path: assets/images/missions/mission-30-201811-03.thumb.jpg
 
 gallery-mission-29:
   - url: assets/images/missions/mission-29-201810-01.jpg
-    image_path: assets/images/missions/mission-29-201810-01.jpg
+    image_path: assets/images/missions/mission-29-201810-01.thumb.jpg
   - url: assets/images/missions/mission-29-201810-02.jpg
-    image_path: assets/images/missions/mission-29-201810-02.jpg
+    image_path: assets/images/missions/mission-29-201810-02.thumb.jpg
 
 gallery-mission-28:
   - url: assets/images/missions/mission-28-201805-01.jpg
-    image_path: assets/images/missions/mission-28-201805-01.jpg
+    image_path: assets/images/missions/mission-28-201805-01.thumb.jpg
   - url: assets/images/missions/mission-28-201805-02.jpg
-    image_path: assets/images/missions/mission-28-201805-02.jpg
+    image_path: assets/images/missions/mission-28-201805-02.thumb.jpg
 
 gallery-mission-27:
   - url: assets/images/missions/mission-27-201804-01.jpg
-    image_path: assets/images/missions/mission-27-201804-01.jpg
+    image_path: assets/images/missions/mission-27-201804-01.thumb.jpg
   - url: assets/images/missions/mission-27-201804-02.jpg
-    image_path: assets/images/missions/mission-27-201804-02.jpg
+    image_path: assets/images/missions/mission-27-201804-02.thumb.jpg
   - url: assets/images/missions/mission-27-201804-03.jpg
-    image_path: assets/images/missions/mission-27-201804-03.jpg
+    image_path: assets/images/missions/mission-27-201804-03.thumb.jpg
 
 gallery-mission-26:
   - url: assets/images/missions/mission-26-201804-01.jpg
-    image_path: assets/images/missions/mission-26-201804-01.jpg
+    image_path: assets/images/missions/mission-26-201804-01.thumb.jpg
   - url: assets/images/missions/mission-26-201804-02.jpg
-    image_path: assets/images/missions/mission-26-201804-02.jpg
+    image_path: assets/images/missions/mission-26-201804-02.thumb.jpg
 
 gallery-mission-25:
   - url: assets/images/missions/mission-25-201802-01.jpg
-    image_path: assets/images/missions/mission-25-201802-01.jpg
+    image_path: assets/images/missions/mission-25-201802-01.thumb.jpg
   - url: assets/images/missions/mission-25-201802-02.jpg
-    image_path: assets/images/missions/mission-25-201802-02.jpg
+    image_path: assets/images/missions/mission-25-201802-02.thumb.jpg
 ---
 
 # Missions & actualités

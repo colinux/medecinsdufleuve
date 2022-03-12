@@ -26,69 +26,69 @@ gallery-intro:
     alt: "Carte de la zone d'intervention de Médecins du Fleuve au Mali"
 
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-1.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-1.jpg
+    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-1.thumb.jpg
     alt: "Village malien sur le fleuve Niger"
     title: "Village malien sur le fleuve Niger"
 
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-2.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-2.jpg
+    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-2.thumb.jpg
     alt: "Enfant qui se lave dans le fleuve Niger au Mali"
     title: "Enfant qui se lave dans le fleuve Niger au Mali"
 
 gallery-population:
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-3.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-3.jpg
+    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-3.thumb.jpg
     alt: "Pirogue de Médecins du Fleuve qui débarque du matériel médical au Mali"
     title: "Pirogue de Médecins du Fleuve qui débarque du matériel médical au Mali"
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-4.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-4.jpg
+    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-4.thumb.jpg
     alt: "Soin dispensé à une femme malienne"
     title: "Soin dispensé à une femme malienne"
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-5.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-5.jpg
+    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-5.thumb.jpg
     alt: "Soin dispensé à un jeune homme"
     title: "Soin dispensé à un jeune homme"
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-6.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-6.jpg
+    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-6.thumb.jpg
     alt: "Séance d'éducation sanitaire au Mali"
     title: "Séance d'éducation sanitaire au Mali"
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-6-b.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-6-b.jpg
+    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-6-b.thumb.jpg
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-7.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-7.jpg
+    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-7.thumb.jpg
     alt: "Âne tractant des valises d'équipements médicaux"
 
 gallery-moyens:
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-8.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-8.jpg
+    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-8.thumb.jpg
     alt: "Bivouac des bénévoles au bord du fleuve Niger"
     title: "Bivouac des bénévoles au bord du fleuve Niger"
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-9.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-9.jpg
+    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-9.thumb.jpg
     alt: "Bivouac des bénévoles de l'association"
     title: "Bivouac des bénévoles de l'association"
 
 gallery-evaluation:
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-10.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-10.jpg
+    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-10.thumb.jpg
     alt: "Séance d'éducation sanitaire"
     title: "Séance d'éducation sanitaire"
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-11.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-11.jpg
+    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-11.thumb.jpg
     alt: "Soins dispensés à la population"
     title: "Soins dispensés à la population"
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-12.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-12.jpg
+    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-12.thumb.jpg
     alt: "L'association a transmis son expérience à une équipe locale pour assurer la continuité d'action"
     title: "L'association a transmis son expérience à une équipe locale pour assurer la continuité d'action"
 
 gallery-bangou:
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-15.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-15.jpg
+    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-15.thumb.jpg
     alt: "Poste de Santé de Bangou construit grâce à l'association"
     title: "Poste de Santé de Bangou construit grâce à l'association"
   - url: /assets/images/actions-mali/medecins-du-fleuve-mali-16.jpg
-    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-16.jpg
+    image_path: /assets/images/actions-mali/medecins-du-fleuve-mali-16.thumb.jpg
     alt: "Pirogue ambulance adossée au poste de santé de Bangou"
     title: "Pirogue ambulance adossée au poste de santé de Bangou"
 ---
@@ -158,7 +158,7 @@ pour assurer la continuité de l’action.
       href="/assets/images/actions-mali/medecins-du-fleuve-mali-13-tempete.jpg"
       title="Pinasse détruite suite à une tempête nocturne"
     >
-      <img src="/assets/images/actions-mali/medecins-du-fleuve-mali-13-tempete.jpg" />
+      <img src="/assets/images/actions-mali/medecins-du-fleuve-mali-13-tempete.thumb.jpg" />
     </a>
   </figure>
 </div>
