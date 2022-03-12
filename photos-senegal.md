@@ -1,6 +1,8 @@
 ---
 layout: splash
-permalink: /senegal
+redirect_from:
+  - /sénégal
+  - /vidéos
 
 header:
   overlay_color: "#000"

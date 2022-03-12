@@ -1,6 +1,9 @@
 ---
 layout: single
 permalink: /actualites
+redirect_from:
+  - /missions
+  - /evènements
 
 classes:
   - page-missions

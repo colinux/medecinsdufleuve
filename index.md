@@ -1,5 +1,10 @@
 ---
 layout: splash
+redirect_from:
+ - /historique
+ - /statuts
+ - /conseil-dadministration
+ - /partenariat
 
 header:
   overlay_color: "#000"

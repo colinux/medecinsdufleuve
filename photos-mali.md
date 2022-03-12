@@ -1,6 +1,7 @@
 ---
 layout: splash
-permalink: /mali
+redirect_from:
+  - /mali
 
 header:
   overlay_color: "#000"

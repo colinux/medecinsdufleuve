@@ -1,6 +1,7 @@
 ---
 layout: splash
-permalink: /au-senegal
+redirect_from:
+  - /au-senegal
 
 header:
   overlay_color: "#000"

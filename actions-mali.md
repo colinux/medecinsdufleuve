@@ -1,6 +1,7 @@
 ---
 layout: splash
-permalink: /au-mali
+redirect_from:
+  - /au-mali
 
 header:
   overlay_color: "#000"
