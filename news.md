@@ -10,6 +10,32 @@ classes:
   - headings-colored
   - wide
 
+gallery-missions-43-44:
+  - url: assets/images/missions/missions-42-43_01.jpg
+    image_path: assets/images/missions/missions-42-43_01.thumb.jpg
+  - url: assets/images/missions/missions-42-43_02.jpg
+    image_path: assets/images/missions/missions-42-43_02.thumb.jpg
+  - url: assets/images/missions/missions-42-43_03.jpg
+    image_path: assets/images/missions/missions-42-43_03.thumb.jpg
+  - url: assets/images/missions/missions-42-43_04.jpg
+    image_path: assets/images/missions/missions-42-43_04.thumb.jpg
+  - url: assets/images/missions/missions-42-43_05.jpg
+    image_path: assets/images/missions/missions-42-43_05.thumb.jpg
+  - url: assets/images/missions/missions-42-43_06.jpg
+    image_path: assets/images/missions/missions-42-43_06.thumb.jpg
+  - url: assets/images/missions/missions-42-43_07.jpg
+    image_path: assets/images/missions/missions-42-43_07.thumb.jpg
+  - url: assets/images/missions/missions-42-43_08.jpg
+    image_path: assets/images/missions/missions-42-43_08.thumb.jpg
+
+gallery-actu-202203:
+  - url: assets/images/missions/actu-202203-01.jpg
+    image_path: assets/images/missions/actu-202203-01.thumb.jpg
+  - url: assets/images/missions/actu-202203-02.jpg
+    image_path: assets/images/missions/actu-202203-02.thumb.jpg
+  - url: assets/images/missions/actu-202203-03.jpg
+    image_path: assets/images/missions/actu-202203-03.thumb.jpg
+
 gallery-actu-202111:
   - url: assets/images/missions/actu-202111_1.jpg
     image_path: assets/images/missions/actu-202111_1.thumb.jpg
@@ -321,9 +347,25 @@ gallery-mission-25:
     image_path: assets/images/missions/mission-25-201802-01.thumb.jpg
   - url: assets/images/missions/mission-25-201802-02.jpg
     image_path: assets/images/missions/mission-25-201802-02.thumb.jpg
+
 ---
 
 # Missions & actualités
+
+## Mars/Avril 2022 — Missions 43 et 44
+
+Pendant un mois deux équipes mobiles de Médecins du Fleuve se sont relayées
+pour assurer plus d’un millier de consultations dans les postes
+et cases de santé isolés des districts de Richard-Toll et de Sokone.
+
+{% include gallery id="gallery-missions-43-44" %}
+
+## 28 mars 2022
+
+**La pirogue ambulance** de Médecins du Fleuve a été remise au village insulaire
+de Bossinkang au sud du delta du Saloum.
+
+{% include gallery id="gallery-actu-202203" %}
 
 ## 19 février 2022 — Assemblée générale
 
