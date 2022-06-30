@@ -10,6 +10,38 @@ classes:
   - headings-colored
   - wide
 
+gallery-actu-202206:
+  - url: assets/images/missions/actu-202206_01.jpg
+    image_path: assets/images/missions/actu-202206_01.thumb.jpg
+  - url: assets/images/missions/actu-202206_02.jpg
+    image_path: assets/images/missions/actu-202206_02.thumb.jpg
+  - url: assets/images/missions/actu-202206_03.jpg
+    image_path: assets/images/missions/actu-202206_03.thumb.jpg
+  - url: assets/images/missions/actu-202206_04.jpg
+    image_path: assets/images/missions/actu-202206_04.thumb.jpg
+  - url: assets/images/missions/actu-202206_05.jpg
+    image_path: assets/images/missions/actu-202206_05.thumb.jpg
+  - url: assets/images/missions/actu-202206_06.jpg
+    image_path: assets/images/missions/actu-202206_06.thumb.jpg
+
+gallery-missions-45-46:
+  - url: assets/images/missions/missions-45-46_01.jpg
+    image_path: assets/images/missions/missions-45-46_01.thumb.jpg
+  - url: assets/images/missions/missions-45-46_02.jpg
+    image_path: assets/images/missions/missions-45-46_02.thumb.jpg
+  - url: assets/images/missions/missions-45-46_03.jpg
+    image_path: assets/images/missions/missions-45-46_03.thumb.jpg
+  - url: assets/images/missions/missions-45-46_04.jpg
+    image_path: assets/images/missions/missions-45-46_04.thumb.jpg
+  - url: assets/images/missions/missions-45-46_05.jpg
+    image_path: assets/images/missions/missions-45-46_05.thumb.jpg
+  - url: assets/images/missions/missions-45-46_06.jpg
+    image_path: assets/images/missions/missions-45-46_06.thumb.jpg
+  - url: assets/images/missions/missions-45-46_07.jpg
+    image_path: assets/images/missions/missions-45-46_07.thumb.jpg
+  - url: assets/images/missions/missions-45-46_08.jpg
+    image_path: assets/images/missions/missions-45-46_08.thumb.jpg
+
 gallery-missions-43-44:
   - url: assets/images/missions/missions-42-43_01.jpg
     image_path: assets/images/missions/missions-42-43_01.thumb.jpg
@@ -351,6 +383,22 @@ gallery-mission-25:
 ---
 
 # Missions & actualités
+
+## Juin 2022. Le parcours de Megueye
+
+Avec le soutien de MDF et en partenariat avec Mécénat Chirurgie Cardiaque,
+le jeune Megueye a pu bénéficier d’une intervention salvatrice en France :
+une véritable renaissance pour lui.
+
+{% include gallery id="gallery-actu-202206" %}
+
+## Mai/Juin 2022 — Missions 45 et 46
+
+Au cours de ces deux missions 1 400 malades ont été soignés sur place par nos équipes ;
+42 d’entre eux ont été pris en charge financièrement pour pouvoir bénéficier d’une hospitalisation,
+d’une intervention chirurgicale, ou d’examens complémentaires biologiques ou radiologiques.
+
+{% include gallery id="gallery-missions-45-46" %}
 
 ## Mars/Avril 2022 — Missions 43 et 44
 
