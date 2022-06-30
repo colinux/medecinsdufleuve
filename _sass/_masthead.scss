@@ -146,6 +146,12 @@
 }
 
 .greedy-nav {
+  a {
+    // decrease default original margin 1rem
+    margin-left: 0.8rem;
+    margin-right: 0.8rem;
+  }
+
   .visible-links {
     align-items: center;
   }

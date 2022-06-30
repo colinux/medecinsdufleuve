@@ -393,7 +393,7 @@ Au profit de MEDECINS DU FLEUVE : _L’OURS_ et _UNE DEMANDE EN MARIAGE_,
 deux chefs d’œuvre du théâtre comique d’Anton TCHEKHOV,
 proposée par la troupe _Les Jeux Dits de La Bruyère_.
 
-[Réservez votre place ici](https://www.helloasso.com/associations/medecins-du-fleuve/evenements/deux-farces-de-tchekhov-1){: .btn .btn--primary}
+[Réservez vos places ici](https://www.helloasso.com/associations/medecins-du-fleuve/evenements/deux-farces-de-tchekhov-1){: .btn .btn--primary target="_blank" rel="noreferrer noopener"}
 
 ![Affiche des pièces de théâtre de Tchekhov représentées au profit de Médecins du Fleuve](/assets/images/missions/theatre-tchekhov_2022-affiche.jpg){: loading="lazy"}
 

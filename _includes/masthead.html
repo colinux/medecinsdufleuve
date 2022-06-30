@@ -17,6 +17,7 @@
               <a href="{% if link.children %}#{% else %}{{ link.url | relative_url }}{% endif %}"
                  {% if link.class %} class="{{ link.class }}"{% endif %}
                  {% if link.description %} title="{{ link.description }}"{% endif %}
+                 {% if link.attributes %}{{ link.attributes }}{% endif %}
                  {% if link.children %} aria-haspopup="true"{% endif %}
                  >{{ link.title }}</a>
 
