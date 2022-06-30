@@ -36,30 +36,32 @@ gallery-missions-45-46:
     image_path: assets/images/missions/missions-45-46_04.thumb.jpg
   - url: assets/images/missions/missions-45-46_05.jpg
     image_path: assets/images/missions/missions-45-46_05.thumb.jpg
+    style: "grid-row: span 2"
   - url: assets/images/missions/missions-45-46_06.jpg
     image_path: assets/images/missions/missions-45-46_06.thumb.jpg
   - url: assets/images/missions/missions-45-46_07.jpg
     image_path: assets/images/missions/missions-45-46_07.thumb.jpg
+    style: "grid-row: span 2"
   - url: assets/images/missions/missions-45-46_08.jpg
     image_path: assets/images/missions/missions-45-46_08.thumb.jpg
 
 gallery-missions-43-44:
-  - url: assets/images/missions/missions-42-43_01.jpg
-    image_path: assets/images/missions/missions-42-43_01.thumb.jpg
-  - url: assets/images/missions/missions-42-43_02.jpg
-    image_path: assets/images/missions/missions-42-43_02.thumb.jpg
-  - url: assets/images/missions/missions-42-43_03.jpg
-    image_path: assets/images/missions/missions-42-43_03.thumb.jpg
-  - url: assets/images/missions/missions-42-43_04.jpg
-    image_path: assets/images/missions/missions-42-43_04.thumb.jpg
-  - url: assets/images/missions/missions-42-43_05.jpg
-    image_path: assets/images/missions/missions-42-43_05.thumb.jpg
-  - url: assets/images/missions/missions-42-43_06.jpg
-    image_path: assets/images/missions/missions-42-43_06.thumb.jpg
-  - url: assets/images/missions/missions-42-43_07.jpg
-    image_path: assets/images/missions/missions-42-43_07.thumb.jpg
-  - url: assets/images/missions/missions-42-43_08.jpg
-    image_path: assets/images/missions/missions-42-43_08.thumb.jpg
+  - url: assets/images/missions/missions-43-44_01.jpg
+    image_path: assets/images/missions/missions-43-44_01.thumb.jpg
+  - url: assets/images/missions/missions-43-44_02.jpg
+    image_path: assets/images/missions/missions-43-44_02.thumb.jpg
+  - url: assets/images/missions/missions-43-44_03.jpg
+    image_path: assets/images/missions/missions-43-44_03.thumb.jpg
+  - url: assets/images/missions/missions-43-44_04.jpg
+    image_path: assets/images/missions/missions-43-44_04.thumb.jpg
+  - url: assets/images/missions/missions-43-44_05.jpg
+    image_path: assets/images/missions/missions-43-44_05.thumb.jpg
+  - url: assets/images/missions/missions-43-44_06.jpg
+    image_path: assets/images/missions/missions-43-44_06.thumb.jpg
+  - url: assets/images/missions/missions-43-44_07.jpg
+    image_path: assets/images/missions/missions-43-44_07.thumb.jpg
+  - url: assets/images/missions/missions-43-44_08.jpg
+    image_path: assets/images/missions/missions-43-44_08.thumb.jpg
 
 gallery-actu-202203:
   - url: assets/images/missions/actu-202203-01.jpg
