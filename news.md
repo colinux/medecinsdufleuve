@@ -27,6 +27,7 @@ gallery-actu-202206:
 gallery-missions-45-46:
   - url: assets/images/missions/missions-45-46_01.jpg
     image_path: assets/images/missions/missions-45-46_01.thumb.jpg
+    style: "grid-column: span 2"
   - url: assets/images/missions/missions-45-46_02.jpg
     image_path: assets/images/missions/missions-45-46_02.thumb.jpg
   - url: assets/images/missions/missions-45-46_03.jpg
