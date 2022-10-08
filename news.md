@@ -10,6 +10,21 @@ classes:
   - headings-colored
   - wide
 
+gallery-actu-202209-tchekhov:
+  - url: assets/images/missions/actu-202209_theatre-tchekhov-affiche.jpg
+    image_path: assets/images/missions/actu-202209_theatre-tchekhov-affiche.jpg
+    title: Affiche des pièces de théâtre de Tchekhov représentées au profit de Médecins du Fleuve
+    style: "grid-area: a"
+  - url: assets/images/missions/actu-202209_theatre-tchekhov-1.jpg
+    image_path: assets/images/missions/actu-202209_theatre-tchekhov-1.jpg
+    style: "grid-area: b; align-self: end"
+  - url: assets/images/missions/actu-202209_theatre-tchekhov-2.jpg
+    image_path: assets/images/missions/actu-202209_theatre-tchekhov-2.jpg
+    style: "grid-area: c"
+  - url: assets/images/missions/actu-202209_theatre-tchekhov-3.jpg
+    image_path: assets/images/missions/actu-202209_theatre-tchekhov-3.jpg
+    style: "grid-area: d"
+
 gallery-actu-202206:
   - url: assets/images/missions/actu-202206_01.jpg
     image_path: assets/images/missions/actu-202206_01.thumb.jpg
@@ -393,9 +408,8 @@ Au profit de MEDECINS DU FLEUVE : _L’OURS_ et _UNE DEMANDE EN MARIAGE_,
 deux chefs d’œuvre du théâtre comique d’Anton TCHEKHOV,
 proposée par la troupe _Les Jeux Dits de La Bruyère_.
 
-[Réservez vos places ici](https://www.helloasso.com/associations/medecins-du-fleuve/evenements/deux-farces-de-tchekhov-1){: .btn .btn--primary target="_blank" rel="noreferrer noopener"}
+{% include gallery id="gallery-actu-202209-tchekhov" layout="third" style="grid-template-areas: 'a b b' 'c d d'" %}
 
-![Affiche des pièces de théâtre de Tchekhov représentées au profit de Médecins du Fleuve](/assets/images/missions/theatre-tchekhov_2022-affiche.jpg){: loading="lazy"}
 
 ## Juin 2022. Le parcours de Megueye
 
