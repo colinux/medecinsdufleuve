@@ -1,10 +1,4 @@
 main:
-    - title: Réserver pour Tchekhov
-      url: https://www.helloasso.com/associations/medecins-du-fleuve/evenements/deux-farces-de-tchekhov-1
-      class: "btn btn--primary"
-      attributes: 'target="_blank" rel="noreferrer noopener"'
-      description: "Réservez vos places pour la représentation des pièces de Tchekhov au profit de Médecins du Fleuve"
-
     - title: "Faire un don <i>♡</i>"
       url: /faire-un-don
       class: "btn btn--light-outline"
