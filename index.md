@@ -131,5 +131,5 @@ Représentant au Sénégal :
 
 Si vous avez des projets de voyage, optez pour une agence solidaire
 qui soutient Médecins du Fleuve en reversant une partie
-du prix du voyage : <a href="http://soleader.solutionsplus.ovh/affiliation/medecins-du-fleuve-association/13" target="_blank" rel="noopener">Voyage So-Leader</a>.
+du prix du voyage : <a href="https://so-leader.com/affiliation/medecins-du-fleuve-association/13" target="_blank" rel="noopener">Voyage So-Leader</a>.
 {: .well}
