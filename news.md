@@ -25,6 +25,30 @@ gallery-actu-202209-tchekhov:
     image_path: assets/images/missions/actu-202209_theatre-tchekhov-3.jpg
     style: "grid-area: d"
 
+
+gallery-missions-47-48:
+  - url: assets/images/missions/missions-47-48_01.jpg
+    image_path: assets/images/missions/missions-47-48_01.thumb.jpg
+  - url: assets/images/missions/missions-47-48_02.jpg
+    image_path: assets/images/missions/missions-47-48_02.thumb.jpg
+  - url: assets/images/missions/missions-47-48_03.jpg
+    image_path: assets/images/missions/missions-47-48_03.thumb.jpg
+    style: "grid-row: span 2"
+  - url: assets/images/missions/missions-47-48_04.jpg
+    image_path: assets/images/missions/missions-47-48_04.thumb.jpg
+  - url: assets/images/missions/missions-47-48_05.jpg
+    image_path: assets/images/missions/missions-47-48_05.thumb.jpg
+  - url: assets/images/missions/missions-47-48_06.jpg
+    image_path: assets/images/missions/missions-47-48_06.thumb.jpg
+  - url: assets/images/missions/missions-47-48_07.jpg
+    image_path: assets/images/missions/missions-47-48_07.thumb.jpg
+    style: "grid-row: span 2"
+  - url: assets/images/missions/missions-47-48_08.jpg
+    image_path: assets/images/missions/missions-47-48_08.thumb.jpg
+    style: "grid-row: span 2"
+  - url: assets/images/missions/missions-47-48_09.jpg
+    image_path: assets/images/missions/missions-47-48_09.thumb.jpg
+
 gallery-actu-202206:
   - url: assets/images/missions/actu-202206_01.jpg
     image_path: assets/images/missions/actu-202206_01.thumb.jpg
@@ -401,6 +425,16 @@ gallery-mission-25:
 ---
 
 # Missions & actualités
+
+## Novembre 2022 — Missions 47 et 48
+
+Au nord dans la zone de Diama, puis au sud dans les îles du delta du Saloum,
+nos deux équipes se sont succédées pour soigner plus de 1 200 malades.
+Nombre d’entre eux, souvent démunis mais nécessitant une hospitalisation,
+une intervention chirurgicale ou un bilan,
+ont bénéficié d’une une prise en charge financière par MDF.
+
+{% include gallery id="gallery-missions-47-48" %}
 
 ## Soirée théâtre TCHEKHOV le 23 septembre
 
