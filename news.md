@@ -10,6 +10,12 @@ classes:
   - headings-colored
   - wide
 
+gallery-actu-202303:
+  - url: assets/images/missions/actu-202303_kora-1.jpg
+    image_path: assets/images/missions/actu-202303_kora-1.thumb.jpg
+  - url: assets/images/missions/actu-202303_kora-2.jpg
+    image_path: assets/images/missions/actu-202303_kora-2.thumb.jpg
+
 gallery-actu-202209-tchekhov:
   - url: assets/images/missions/actu-202209_theatre-tchekhov-affiche.jpg
     image_path: assets/images/missions/actu-202209_theatre-tchekhov-affiche.jpg
@@ -425,6 +431,14 @@ gallery-mission-25:
 ---
 
 # Missions & actualités
+
+## Assemblée Générale du 4 mars 2023
+[Consulter le rapport moral de l’année civile 2022](/assets/rapport_moral_mars_2023.pdf){: .btn .btn--primary target="_blank"}
+
+Les participants au repas convivial du soir
+ont pu apprécier un magnifique concert de Kora.
+
+{% include gallery id="gallery-actu-202303" class="flex-around max-height-480" %}
 
 ## Novembre 2022 — Missions 47 et 48
 
