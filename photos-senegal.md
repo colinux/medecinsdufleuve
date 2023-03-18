@@ -455,6 +455,42 @@ gallery:
     image_path: assets/images/photos-senegal/medecins-du-fleuve-senegal-109.thumb.jpg
     title: ""
     alt: ""
+  - url: assets/images/photos-senegal/medecins-du-fleuve-senegal-110.jpg
+    image_path: assets/images/photos-senegal/medecins-du-fleuve-senegal-110.thumb.jpg
+    title: "Mission 49-50 — 2023"
+    alt: "Mission 49-50 — 2023"
+  - url: assets/images/photos-senegal/medecins-du-fleuve-senegal-111.jpg
+    image_path: assets/images/photos-senegal/medecins-du-fleuve-senegal-111.thumb.jpg
+    title: "Mission 49-50 — 2023"
+    alt: "Mission 49-50 — 2023"
+  - url: assets/images/photos-senegal/medecins-du-fleuve-senegal-112.jpg
+    image_path: assets/images/photos-senegal/medecins-du-fleuve-senegal-112.thumb.jpg
+    title: "Mission 49-50 — 2023"
+    alt: "Mission 49-50 — 2023"
+  - url: assets/images/photos-senegal/medecins-du-fleuve-senegal-113.jpg
+    image_path: assets/images/photos-senegal/medecins-du-fleuve-senegal-113.thumb.jpg
+    title: "Mission 49-50 — 2023"
+    alt: "Mission 49-50 — 2023"
+  - url: assets/images/photos-senegal/medecins-du-fleuve-senegal-114.jpg
+    image_path: assets/images/photos-senegal/medecins-du-fleuve-senegal-114.thumb.jpg
+    title: "Mission 49-50 — 2023"
+    alt: "Mission 49-50 — 2023"
+  - url: assets/images/photos-senegal/medecins-du-fleuve-senegal-115.jpg
+    image_path: assets/images/photos-senegal/medecins-du-fleuve-senegal-115.thumb.jpg
+    title: "Mission 49-50 — 2023"
+    alt: "Mission 49-50 — 2023"
+  - url: assets/images/photos-senegal/medecins-du-fleuve-senegal-116.jpg
+    image_path: assets/images/photos-senegal/medecins-du-fleuve-senegal-116.thumb.jpg
+    title: "Mission 49-50 — 2023"
+    alt: "Mission 49-50 — 2023"
+  - url: assets/images/photos-senegal/medecins-du-fleuve-senegal-117.jpg
+    image_path: assets/images/photos-senegal/medecins-du-fleuve-senegal-117.thumb.jpg
+    title: "Mission 49-50 — 2023"
+    alt: "Mission 49-50 — 2023"
+  - url: assets/images/photos-senegal/medecins-du-fleuve-senegal-118.jpg
+    image_path: assets/images/photos-senegal/medecins-du-fleuve-senegal-118.thumb.jpg
+    title: "Mission 49-50 — 2023"
+    alt: "Mission 49-50 — 2023"
 ---
 
 {% include gallery id="gallery" class="cover" %}
