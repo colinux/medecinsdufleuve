@@ -10,6 +10,38 @@ classes:
   - headings-colored
   - wide
 
+gallery-missions-49-50:
+  - url: assets/images/missions/missions-49-50_01.jpg
+    image_path: assets/images/missions/missions-49-50_01.thumb.jpg
+    style: "grid-row: span 2"
+  - url: assets/images/missions/missions-49-50_02.jpg
+    image_path: assets/images/missions/missions-49-50_02.thumb.jpg
+    style: "grid-row: span 2"
+  - url: assets/images/missions/missions-49-50_03.jpg
+    image_path: assets/images/missions/missions-49-50_03.thumb.jpg
+    style: "grid-row: span 2"
+  - url: assets/images/missions/missions-49-50_04.jpg
+    image_path: assets/images/missions/missions-49-50_04.thumb.jpg
+    style: "grid-row: span 2"
+  - url: assets/images/missions/missions-49-50_05.jpg
+    image_path: assets/images/missions/missions-49-50_05.thumb.jpg
+    style: "grid-row: span 2"
+  - url: assets/images/missions/missions-49-50_06.jpg
+    image_path: assets/images/missions/missions-49-50_06.thumb.jpg
+    style: "grid-row: span 2"
+  - url: assets/images/missions/missions-49-50_07.jpg
+    image_path: assets/images/missions/missions-49-50_07.thumb.jpg
+    style: "grid-row: span 2"
+  - url: assets/images/missions/missions-49-50_08.jpg
+    image_path: assets/images/missions/missions-49-50_08.thumb.jpg
+    style: "grid-row: span 2"
+  - url: assets/images/missions/missions-49-50_09.jpg
+    image_path: assets/images/missions/missions-49-50_09.thumb.jpg
+    style: "grid-row: span 1"
+  - url: assets/images/missions/missions-49-50_10.jpg
+    image_path: assets/images/missions/missions-49-50_10.thumb.jpg
+    style: "grid-row: span 1"
+
 gallery-actu-202303:
   - url: assets/images/missions/actu-202303_kora-1.jpg
     image_path: assets/images/missions/actu-202303_kora-1.thumb.jpg
@@ -431,6 +463,14 @@ gallery-mission-25:
 ---
 
 # Missions & actualités
+
+## Janvier-Février 2023. Missions 49 et 50
+
+Ces deux premières missions itinérantes de l’année ont été l’occasion de faire
+un don de tensiomètres électroniques aux postes de santé,
+et d’assurer plus d’un millier de consultations avec délivrance des médicaments prescrits.
+
+{% include gallery id="gallery-missions-49-50" %}
 
 ## Assemblée Générale du 4 mars 2023
 [Consulter le rapport moral de l’année civile 2022](/assets/rapport_moral_mars_2023.pdf){: .btn .btn--primary target="_blank"}
