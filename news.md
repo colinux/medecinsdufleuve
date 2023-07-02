@@ -10,6 +10,67 @@ classes:
   - headings-colored
   - wide
 
+gallery-missions-52-53:
+  - url: assets/images/missions/missions-52-53_01.jpg
+    image_path: assets/images/missions/missions-52-53_01.thumb.jpg
+    alt: ""
+    title: ""
+  - url: assets/images/missions/missions-52-53_02.jpg
+    image_path: assets/images/missions/missions-52-53_02.thumb.jpg
+    alt: ""
+    title: ""
+  - url: assets/images/missions/missions-52-53_03.jpg
+    image_path: assets/images/missions/missions-52-53_03.thumb.jpg
+    alt: ""
+    title: ""
+    style: "grid-row: span 2"
+  - url: assets/images/missions/missions-52-53_04.jpg
+    image_path: assets/images/missions/missions-52-53_04.thumb.jpg
+    alt: ""
+    title: ""
+  - url: assets/images/missions/missions-52-53_05.jpg
+    image_path: assets/images/missions/missions-52-53_05.thumb.jpg
+    alt: ""
+    title: ""
+  - url: assets/images/missions/missions-52-53_06.jpg
+    image_path: assets/images/missions/missions-52-53_06.thumb.jpg
+    alt: ""
+    title: ""
+  - url: assets/images/missions/missions-52-53_07.jpg
+    image_path: assets/images/missions/missions-52-53_07.thumb.jpg
+    alt: ""
+    title: ""
+  - url: assets/images/missions/missions-52-53_08.jpg
+    image_path: assets/images/missions/missions-52-53_08.thumb.jpg
+    alt: ""
+    title: ""
+
+gallery-mission-51:
+  - url: assets/images/missions/mission-51_01.jpg
+    image_path: assets/images/missions/mission-51_01.thumb.jpg
+    title: ""
+    alt: ""
+  - url: assets/images/missions/mission-51_02.jpg
+    image_path: assets/images/missions/mission-51_02.thumb.jpg
+    title: ""
+    alt: ""
+  - url: assets/images/missions/mission-51_03.jpg
+    image_path: assets/images/missions/mission-51_03.thumb.jpg
+    title: ""
+    alt: ""
+  - url: assets/images/missions/mission-51_04.jpg
+    image_path: assets/images/missions/mission-51_04.thumb.jpg
+    title: ""
+    alt: ""
+  - url: assets/images/missions/mission-51_05.jpg
+    image_path: assets/images/missions/mission-51_05.thumb.jpg
+    title: ""
+    alt: ""
+  - url: assets/images/missions/mission-51_06.jpg
+    image_path: assets/images/missions/mission-51_06.thumb.jpg
+    title: ""
+    alt: ""
+
 gallery-missions-49-50:
   - url: assets/images/missions/missions-49-50_01.jpg
     image_path: assets/images/missions/missions-49-50_01.thumb.jpg
@@ -463,6 +524,33 @@ gallery-mission-25:
 ---
 
 # Missions & actualités
+
+## Mai-Juin 2023. Missions 52 et 53
+
+Ces deux missions dans le district sanitaire de Richard-Toll puis de Sokone
+ont permis d’assurer 1 155 consultations et l’évacuation grâce au 4x4
+et la pirogue de MDF de trois urgences vitales
+vers les hôpitaux de Saint louis et de Fatick.
+
+{% include gallery id="gallery-missions-52-53" %}
+
+## Mai 2023. Logement de la sage-femme de Diama
+
+Sur financement de MDF, la construction du logement de la
+sage-femme dans l’enceinte du poste de santé de Diama est achevée.
+
+{% include image-popup path="/assets/images/missions/actu-202305_diama.jpg"
+  classes="flex-around max-height-480"
+  title="Logement de la sage-femme au poste de santé de Diama" %}
+
+## Mars-Avril 2023. Mission 51
+
+Merci à nos médecins bénévoles Denis, Anne, Aline et Anne-Marie,
+accompagnés de Cheick et Adama,
+d’avoir mené cette mission dans le delta du Saloum
+pour prodiguer leurs soins auprès de 448 malades.
+
+{% include gallery id="gallery-mission-51" %}
 
 ## Janvier-Février 2023. Missions 49 et 50
 

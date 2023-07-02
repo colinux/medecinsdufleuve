@@ -10,5 +10,7 @@ Dir.glob(mask) do |file|
   puts <<~IMG
     - url: #{file}
       image_path: #{file.gsub('.jpg', '.thumb.jpg')}
+      alt: ""
+      title: ""
   IMG
 end
