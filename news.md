@@ -525,6 +525,15 @@ gallery-mission-25:
 
 # Missions & actualités
 
+## Soirée théâtre le vendredi 27 Octobre à 20h
+
+Au profit de MEDECINS DU FLEUVE : deux comédies de Georges Courteline et de Max Maurey proposées
+par la troupe des JEUX DITS DE LA BRUYERE, au théâtre de l'ANTRE MAGIQUE Paris IXème.
+
+[Réservation sur https://antremagique.net](https://antremagique.net){: .btn .btn--primary target="_blank" rel="noopener" }
+
+![Affiche des comédies La Peur des Coups et La Délaissée jouées au profit de Médecins du Fleuve](/assets/images/missions/affiche-couples-en-scene-202309.jpg){: loading="lazy" style="max-height:600px" }
+
 ## Mai-Juin 2023. Missions 52 et 53
 
 Ces deux missions dans le district sanitaire de Richard-Toll puis de Sokone

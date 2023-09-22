@@ -1,8 +1,18 @@
 main:
+    - title: Soirée théâtre le 27/10 “Couples en scène”
+      url: https://antremagique.net
+      class: "btn btn--primary"
+      attributes: 'target="_blank" rel="noreferrer noopener"'
+      description: "Réservez vos places pour la représentation des pièces de théâtre “Couples en scène” le 27/10/2023 au profit de Médecins du Fleuve"
+
     - title: "Faire un don <i>♡</i>"
       url: /faire-un-don
       class: "btn btn--light-outline"
       description: "Adhérez à l'association en faisant un don"
+
+    - title: "Actualités"
+      url: /actualites
+      description: "Missions & actualités de l'association"
 
     - title: "Actions au Sénégal <i>🇸🇳</i>"
       url: /actions-senegal
@@ -11,10 +21,6 @@ main:
     - title: "Actions au Mali <i>🇲🇱</i>"
       url: /actions-mali
       description: "Découvrez ce que nous avons réalisé au Mali"
-
-    - title: "Actualités"
-      url: /actualites
-      description: "Missions & actualités de l'association"
 
     - title: "Photos"
       children:
