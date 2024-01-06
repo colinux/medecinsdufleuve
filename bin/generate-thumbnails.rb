@@ -12,5 +12,5 @@ Dir.glob(mask) do |file|
   puts "Processing #{file}"
 
   # system("convert -define jpeg:size=500x180 #{file} -auto-orient -thumbnail 1280x480 -unsharp 0x.5 #{file_thumb}")
-  system("convert -define jpeg #{file} -auto-orient -thumbnail 1280x480 -unsharp 0x.5 #{file_thumb}")
+  system("convert -define jpeg #{file} -auto-orient -thumbnail 1280x600 -unsharp 0x.5 #{file_thumb}")
 end

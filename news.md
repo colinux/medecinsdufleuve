@@ -10,6 +10,25 @@ classes:
   - headings-colored
   - wide
 
+gallery-missions-54-55:
+  - url: assets/images/missions/mission-54-55_01.jpg
+    image_path: assets/images/missions/mission-54-55_01.thumb.jpg
+    alt: ""
+    title: ""
+  - url: assets/images/missions/mission-54-55_02.jpg
+    image_path: assets/images/missions/mission-54-55_02.thumb.jpg
+    alt: ""
+    title: ""
+    style: "grid-row: span 2"
+  - url: assets/images/missions/mission-54-55_03.jpg
+    image_path: assets/images/missions/mission-54-55_03.thumb.jpg
+    alt: ""
+    title: ""
+  - url: assets/images/missions/mission-54-55_04.jpg
+    image_path: assets/images/missions/mission-54-55_04.thumb.jpg
+    alt: ""
+    title: ""
+
 gallery-missions-52-53:
   - url: assets/images/missions/missions-52-53_01.jpg
     image_path: assets/images/missions/missions-52-53_01.thumb.jpg
@@ -524,6 +543,14 @@ gallery-mission-25:
 ---
 
 # Missions & actualités
+
+## Novembre 2023. Missions 54 et 55
+
+Au cours de ses deux missions de deux semaines chacune, près de 1400 malades ont pu recevoir nos soins ;
+et une trentaine d’entre eux ont bénéficié d’une prise en charge financière
+pour leurs hospitalisations ou leurs bilans.
+
+{% include gallery id="gallery-missions-54-55" %}
 
 ## Soirée théâtre le vendredi 27 Octobre à 20h
 
