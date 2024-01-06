@@ -1,10 +1,4 @@
 main:
-    - title: Soirée théâtre le 27/10 “Couples en scène”
-      url: https://antremagique.net
-      class: "btn btn--primary"
-      attributes: 'target="_blank" rel="noreferrer noopener"'
-      description: "Réservez vos places pour la représentation des pièces de théâtre “Couples en scène” le 27/10/2023 au profit de Médecins du Fleuve"
-
     - title: "Faire un don <i>♡</i>"
       url: /faire-un-don
       class: "btn btn--light-outline"
