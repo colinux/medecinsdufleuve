@@ -544,6 +544,9 @@ gallery-mission-25:
 
 # Missions & actualités
 
+## Assemblée Générale le 9 mars 2024
+Notre assemblée générale ordinaire est prévue le samedi 9 mars 2024 à 15h dans les locaux du Secours Populaire Français 9 rue Froissart à Paris 3<sup>ème</sup>.
+
 ## Novembre 2023. Missions 54 et 55
 
 Au cours de ses deux missions de deux semaines chacune, près de 1400 malades ont pu recevoir nos soins ;
