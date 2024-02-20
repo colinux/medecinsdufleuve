@@ -14,5 +14,3 @@ classes:
 
 ## Courriel
   [mdf.asso@hotmail.fr](mailto:mdf.asso@hotmail.fr)
-
-
