@@ -10,6 +10,14 @@ classes:
   - headings-colored
   - wide
 
+gallery-actu-202403:
+  - url: assets/images/missions/actu-202403-1.jpg
+    image_path: assets/images/missions/actu-202403-1.thumb.jpg
+  - url: assets/images/missions/actu-202403-2.jpg
+    image_path: assets/images/missions/actu-202403-2.thumb.jpg
+  - url: assets/images/missions/actu-202403-3.jpg
+    image_path: assets/images/missions/actu-202403-3.thumb.jpg
+
 gallery-missions-54-55:
   - url: assets/images/missions/mission-54-55_01.jpg
     image_path: assets/images/missions/mission-54-55_01.thumb.jpg
@@ -544,8 +552,12 @@ gallery-mission-25:
 
 # Missions & actualités
 
-## Assemblée Générale le 9 mars 2024
-Notre assemblée générale ordinaire est prévue le samedi 9 mars 2024 à 15h dans les locaux du Secours Populaire Français 9 rue Froissart à Paris 3<sup>ème</sup>.
+## Assemblée Générale du 9 mars 2024
+[Consulter le rapport moral de l’année civile 2023](/assets/rapport_moral_mars_2024.pdf){: .btn .btn--primary target="_blank"}
+
+L’assemblée générale annuelle s’est tenue dans les locaux du Secours Populaire à Paris. Dans la soirée un repas musical a réuni de fidèles adhérents au Bon Bock.
+
+{% include gallery id="gallery-actu-202403" %}
 
 ## Novembre 2023. Missions 54 et 55
 
