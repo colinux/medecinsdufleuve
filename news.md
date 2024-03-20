@@ -10,6 +10,42 @@ classes:
   - headings-colored
   - wide
 
+gallery-missions-56-57:
+  - url: assets/images/missions/mission-56-57_01.jpg
+    image_path: assets/images/missions/mission-56-57_01.thumb.jpg
+    alt: ""
+    title: ""
+    style: "grid-row: span 2"
+  - url: assets/images/missions/mission-56-57_02.jpg
+    image_path: assets/images/missions/mission-56-57_02.thumb.jpg
+    alt: ""
+    title: ""
+  - url: assets/images/missions/mission-56-57_03.jpg
+    image_path: assets/images/missions/mission-56-57_03.thumb.jpg
+    alt: ""
+    title: ""
+  - url: assets/images/missions/mission-56-57_04.jpg
+    image_path: assets/images/missions/mission-56-57_04.thumb.jpg
+    alt: ""
+    title: ""
+  - url: assets/images/missions/mission-56-57_05.jpg
+    image_path: assets/images/missions/mission-56-57_05.thumb.jpg
+    alt: ""
+    title: ""
+  - url: assets/images/missions/mission-56-57_06.jpg
+    image_path: assets/images/missions/mission-56-57_06.thumb.jpg
+    alt: ""
+    title: ""
+  - url: assets/images/missions/mission-56-57_07.jpg
+    image_path: assets/images/missions/mission-56-57_07.thumb.jpg
+    alt: ""
+    title: ""
+  - url: assets/images/missions/mission-56-57_08.jpg
+    image_path: assets/images/missions/mission-56-57_08.thumb.jpg
+    alt: ""
+    title: ""
+
+
 gallery-actu-202403:
   - url: assets/images/missions/actu-202403-1.jpg
     image_path: assets/images/missions/actu-202403-1.thumb.jpg
@@ -558,6 +594,12 @@ gallery-mission-25:
 L’assemblée générale annuelle s’est tenue dans les locaux du Secours Populaire à Paris. Dans la soirée un repas musical a réuni de fidèles adhérents au Bon Bock.
 
 {% include gallery id="gallery-actu-202403" %}
+
+## Janvier-Février 2024. Missions 56 et 57
+
+Les deux équipes mobiles se sont succédées dans la région de Saint-Louis puis dans le delta du Saloum pour apporter leurs soins à près d’un millier de malades.
+
+{% include gallery id="gallery-missions-56-57" %}
 
 ## Novembre 2023. Missions 54 et 55
 
