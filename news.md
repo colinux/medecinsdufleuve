@@ -10,6 +10,32 @@ classes:
   - headings-colored
   - wide
 
+gallery-missions-59-60:
+- url: assets/images/missions/mission-59-60_01.jpg
+  image_path: assets/images/missions/mission-59-60_01.thumb.jpg
+  alt: ""
+  title: ""
+- url: assets/images/missions/mission-59-60_02.jpg
+  image_path: assets/images/missions/mission-59-60_02.thumb.jpg
+  alt: ""
+  title: ""
+- url: assets/images/missions/mission-59-60_03.jpg
+  image_path: assets/images/missions/mission-59-60_03.thumb.jpg
+  alt: ""
+  title: ""
+- url: assets/images/missions/mission-59-60_04.jpg
+  image_path: assets/images/missions/mission-59-60_04.thumb.jpg
+  alt: ""
+  title: ""
+- url: assets/images/missions/mission-59-60_05.jpg
+  image_path: assets/images/missions/mission-59-60_05.thumb.jpg
+  alt: ""
+  title: ""
+- url: assets/images/missions/mission-59-60_06.jpg
+  image_path: assets/images/missions/mission-59-60_06.thumb.jpg
+  alt: ""
+  title: ""
+
 gallery-missions-56-57:
   - url: assets/images/missions/mission-56-57_01.jpg
     image_path: assets/images/missions/mission-56-57_01.thumb.jpg
@@ -587,6 +613,19 @@ gallery-mission-25:
 ---
 
 # Missions & actualités
+
+## Mai-Juin 2024. Missions 59 et 60
+
+Pendant un mois, c’est encore plus de mille malades qui ont pu bénéficier de nos soins au cours de ces deux missions itinérantes. Parmi eux, 37 malades ont été pris en charge financièrement pour assurer leur bilan, leur hospitalisation, ou leur intervention chirurgicale.
+
+{% include gallery id="gallery-missions-59-60" %}
+
+## Mai 2024. Construction Case de santé de Diadiem 2
+Avancée des travaux de construction de la case de santé de Diadiem 2.
+
+{% include image-popup path="/assets/images/missions/actu-202405-diadiem.jpg"
+  classes="flex-around max-height-480"
+  title="Construction de la case de santé de Diadiem 2" %}
 
 ## Assemblée Générale du 9 mars 2024
 [Consulter le rapport moral de l’année civile 2023](/assets/rapport_moral_mars_2024.pdf){: .btn .btn--primary target="_blank"}
