@@ -10,6 +10,34 @@ classes:
   - headings-colored
   - wide
 
+gallery-diadiem-novembre-2024:
+- url: assets/images/missions/actu-202411-diadiem-1.jpg
+  image_path: assets/images/missions/actu-202411-diadiem-1.thumb.jpg
+  alt: ""
+  title: ""
+- url: assets/images/missions/actu-202411-diadiem-2.jpg
+  image_path: assets/images/missions/actu-202411-diadiem-2.thumb.jpg
+  alt: ""
+  title: ""
+- url: assets/images/missions/actu-202411-diadiem-3.jpg
+  image_path: assets/images/missions/actu-202411-diadiem-3.thumb.jpg
+  alt: ""
+  title: ""
+
+gallery-missions-61-62:
+- url: assets/images/missions/mission-61-62_01.jpg
+  image_path: assets/images/missions/mission-61-62_01.thumb.jpg
+  alt: ""
+  title: ""
+- url: assets/images/missions/mission-61-62_02.jpg
+  image_path: assets/images/missions/mission-61-62_02.thumb.jpg
+  alt: ""
+  title: ""
+- url: assets/images/missions/mission-61-62_03.jpg
+  image_path: assets/images/missions/mission-61-62_03.thumb.jpg
+  alt: ""
+  title: ""
+
 gallery-missions-59-60:
 - url: assets/images/missions/mission-59-60_01.jpg
   image_path: assets/images/missions/mission-59-60_01.thumb.jpg
@@ -613,6 +641,26 @@ gallery-mission-25:
 ---
 
 # Missions & actualités
+
+
+## Novembre 2024. Inauguration de la Case de santé de Diadiem 2
+
+
+La construction de la case de santé de Diadiem 2 est achevée.
+Bien que son équipement soit en attente, des premières consultations
+ont pu y être réalisées au cours de la dernière mission.
+
+{% include gallery id="gallery-diadiem-novembre-2024" class="max-height-480" %}
+
+## Novembre 2024. Missions 61 et 62
+
+Après la trêve estivale ces deux missions ont permis de soigner 1250 malades ;
+une trentaine ont bénéficié d’un soutien financier pour leur hospitalisation ou leur bilan ;
+deux enfants porteurs d’une cardiopathie décompensée ont été évacués
+vers le centre cardio pédiatrique CUOMO de Dakar dans la perspective d’une intervention salvatrice
+qui sera financée par MDF.
+
+{% include gallery id="gallery-missions-61-62" %}
 
 ## Mai-Juin 2024. Missions 59 et 60
 
