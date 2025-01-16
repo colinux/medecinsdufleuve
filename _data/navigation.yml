@@ -1,39 +1,36 @@
 main:
-    - title: Réservation théâtre 28/03
-      url: https://antremagique.net
-      class: "btn btn--primary"
-      attributes: 'target="_blank" rel="noreferrer noopener"'
-      description: "Réservez vos places pour la représentation des pièces de théâtre “Attention… Tension” le 28/03/2025 au profit de Médecins du Fleuve"
+  - title: Réservation théâtre 28 mars
+    url: https://antremagique.net
+    class: "btn btn--primary"
+    attributes: 'target="_blank" rel="noreferrer noopener"'
+    description: "Réservez vos places pour la représentation des pièces de théâtre “Attention… Tension” le 28/03/2025 au profit de Médecins du Fleuve"
 
-    - title: "Faire un don <i>♡</i>"
-      url: /faire-un-don
-      class: "btn btn--light-outline"
-      description: "Adhérez à l'association en faisant un don"
+  - title: "Faire un don <i>♡</i>"
+    url: /faire-un-don
+    class: "btn btn--light-outline"
+    description: "Adhérez à l'association en faisant un don"
 
-    - title: "Actualités"
-      url: /actualites
-      description: "Missions & actualités de l'association"
+  - title: "Actualités"
+    url: /actualites
+    description: "Missions & actualités de l'association"
 
-    - title: "Actions au Sénégal <i>🇸🇳</i>"
-      url: /actions-senegal
-      description: "Découvrez ce que nous réalisons au Sénégal"
+  - title: "Actions au Sénégal <i>🇸🇳</i>"
+    url: /actions-senegal
+    description: "Découvrez ce que nous réalisons au Sénégal"
 
-    - title: "Actions au Mali <i>🇲🇱</i>"
-      url: /actions-mali
-      description: "Découvrez ce que nous avons réalisé au Mali"
+  - title: "Actions au Mali <i>🇲🇱</i>"
+    url: /actions-mali
+    description: "Découvrez ce que nous avons réalisé au Mali"
 
-    - title: "Photos"
-      children:
-        - title: "Au Sénégal"
-          complete_title: "Photos au Sénégal"
-          url: /photos-senegal
+  - title: "Photos"
+    children:
+      - title: "Au Sénégal"
+        complete_title: "Photos au Sénégal"
+        url: /photos-senegal
 
-        - title: "Au Mali (2007-2016)"
-          complete_title: "Photos au Mali"
-          url: /photos-mali
+      - title: "Au Mali (2007-2016)"
+        complete_title: "Photos au Mali"
+        url: /photos-mali
 
-
-    - title: "Contact"
-      url: /contact
-
-
+  - title: "Contact"
+    url: /contact
