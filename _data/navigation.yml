@@ -1,4 +1,10 @@
 main:
+    - title: Réservation théâtre 28/03
+      url: https://antremagique.net
+      class: "btn btn--primary"
+      attributes: 'target="_blank" rel="noreferrer noopener"'
+      description: "Réservez vos places pour la représentation des pièces de théâtre “Attention… Tension” le 28/03/2025 au profit de Médecins du Fleuve"
+
     - title: "Faire un don <i>♡</i>"
       url: /faire-un-don
       class: "btn btn--light-outline"

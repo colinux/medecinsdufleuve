@@ -642,6 +642,22 @@ gallery-mission-25:
 
 # Missions & actualités
 
+## Vendredi 28 mars 2025 : Assemblée Générale à 16h
+Dans les locaux du Secours Populaire : 9 rue Froissart PARIS 3<sup>ème</sup>.
+
+## Vendredi 28 mars 2025 : Théâtre à 20h
+
+Cette année encore la compagnie *Les Jeux Dits de La Bruyère*
+propose une soirée théâtre au profit de MDF le 28 mars 2025 à 20h, à **l’ANTRE MAGIQUE**,
+50 rue St Georges PARIS 9<sup>ème</sup>.
+
+Réservation sur le site [https://antremagique.net](https://antremagique.net){: target="_blank" rel="noopener" } pour le spectacle **ATTENTION… TENSION**
+
+Quatre courtes pièces : *Une cocotte mise à mal avec des liaisons* (Courteline),
+*Un couple pas très moral* (Maupassant), *Un futur marié sauvé par un rasoir* (Labiche)
+et *Une comédienne piégée par un court-circuit* (Rabier).
+
+![Affiche des pièces de la soirée Attension… Tension au profit de Médecins du Fleuve](/assets/images/missions/affiche-attension-tension-202501.webp){: loading="lazy" style="max-height:600px" }
 
 ## Novembre 2024. Inauguration de la Case de santé de Diadiem 2
 
