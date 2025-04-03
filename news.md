@@ -10,6 +10,24 @@ classes:
   - headings-colored
   - wide
 
+gallery-missions-63-64:
+- url: assets/images/missions/mission-63-64_01.jpg
+  image_path: assets/images/missions/mission-63-64_01.thumb.jpg
+  alt: ""
+  title: ""
+- url: assets/images/missions/mission-63-64_02.jpg
+  image_path: assets/images/missions/mission-63-64_02.thumb.jpg
+  alt: ""
+  title: ""
+- url: assets/images/missions/mission-63-64_03.jpg
+  image_path: assets/images/missions/mission-63-64_03.thumb.jpg
+  alt: ""
+  title: ""
+- url: assets/images/missions/mission-63-64_04.jpg
+  image_path: assets/images/missions/mission-63-64_04.thumb.jpg
+  alt: ""
+  title: ""
+
 gallery-actu-202503-theatre:
   - url: assets/images/missions/affiche-attention-tension-202501.webp
     image_path: assets/images/missions/affiche-attention-tension-202501.webp
@@ -652,6 +670,12 @@ gallery-mission-25:
 ---
 
 # Missions & actualités
+
+## Janvier-Février 2025. Missions 63 et 64
+
+Deux nouveaux médecins ont participé à ces missions qui ont permis d’assurer 1130 consultations et la prise en charge financière des bilans et hospitalisations de 23 malades. MDF a organisé et mis en place le financement de certaines évacuations urgentes par véhicule privé au niveau du village de Diadiem 3.
+
+{% include gallery id="gallery-missions-63-64" layout="half" %}
 
 ## Assemblée Générale du 28 mars 2025
 
