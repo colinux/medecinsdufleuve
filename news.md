@@ -653,8 +653,11 @@ gallery-mission-25:
 
 # Missions & actualités
 
-## Vendredi 28 mars 2025 : Assemblée Générale à 16h
-Dans les locaux du Secours Populaire : 9 rue Froissart PARIS 3<sup>ème</sup>.
+## Assemblée Générale du 28 mars 2025
+
+[Consulter le rapport moral de l’année civile 2024](/assets/rapport_moral_mars_2025.pdf){: .btn .btn--primary target="_blank"}
+
+L’assemblée générale annuelle s’est tenue dans les locaux du Secours Populaire à Paris.
 
 ## Vendredi 28 mars 2025 : Théâtre au profit de l‘association
 
