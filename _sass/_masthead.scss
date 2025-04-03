@@ -76,7 +76,8 @@
       border: 1px solid $border-color;
       border-radius: $border-radius;
       background: $background-color;
-      box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16),
+      box-shadow:
+        0 2px 4px 0 rgba(0, 0, 0, 0.16),
         0 2px 10px 0 rgba(0, 0, 0, 0.12);
 
       a {
@@ -147,10 +148,10 @@
 
 .greedy-nav {
   // decrease default original margin 1rem. Use that when 6 buttons are shown.
-  a {
+  /* a {
     margin-left: 0.8rem;
     margin-right: 0.8rem;
-  }
+  } */
 
   .visible-links {
     align-items: center;
