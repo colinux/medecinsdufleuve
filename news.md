@@ -10,6 +10,33 @@ classes:
   - headings-colored
   - wide
 
+gallery-missions-65-66:
+- url: assets/images/missions/mission-65-66_01.jpg
+  image_path: assets/images/missions/mission-65-66_01.thumb.jpg
+  alt: ""
+  title: ""
+  style: "grid-area: a"
+- url: assets/images/missions/mission-65-66_02.jpg
+  image_path: assets/images/missions/mission-65-66_02.thumb.jpg
+  alt: ""
+  title: ""
+  style: "grid-area: b"
+- url: assets/images/missions/mission-65-66_03.jpg
+  image_path: assets/images/missions/mission-65-66_03.thumb.jpg
+  alt: ""
+  title: ""
+  style: "grid-area: c"
+- url: assets/images/missions/mission-65-66_04.jpg
+  image_path: assets/images/missions/mission-65-66_04.thumb.jpg
+  alt: ""
+  title: ""
+  style: "grid-area: d"
+- url: assets/images/missions/mission-65-66_05.jpg
+  image_path: assets/images/missions/mission-65-66_05.thumb.jpg
+  alt: ""
+  title: ""
+  style: "grid-area: e"
+
 gallery-missions-63-64:
 - url: assets/images/missions/mission-63-64_01.jpg
   image_path: assets/images/missions/mission-63-64_01.thumb.jpg
@@ -670,6 +697,25 @@ gallery-mission-25:
 ---
 
 # Missions & actualités
+
+## Juin 2025. Lancement de la construction de la Case de santé de Maraye
+
+<div class="flex flex-around">
+  {% include image-popup path="/assets/images/missions/actu-202506-travaux-case-maraye.jpg"
+    classes="max-height-480"
+    title="Photo du lancement de la construction de la Case de santé de Maraye" %}
+
+  <div class="max-height-480">
+    {% include video-hosted src="/uploads/actu_202506-construction-case-maraye.mp4"
+    poster="/uploads/actu_202506-construction-case-maraye.poster.jpg" %}
+  </div>
+</div>
+
+## Mai 2025. Missions 65 et 66
+
+Pendant un mois, nos deux équipes se sont succédé pour assurer dans le Delta du Saloum puis dans la région de Saint Louis ces missions qui ont permis de soigner 1044 malades ; les frais d’hospitalisation et de bilan et de traitement ont été pris en charge MDF pour dix-neuf d’entre eux.
+
+{% include gallery id="gallery-missions-65-66" style="grid-template-areas: 'a a b' 'c d d' 'e e .'" %}
 
 ## Janvier-Février 2025. Missions 63 et 64
 

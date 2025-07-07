@@ -16,7 +16,8 @@
   }
 }
 
-figure {
+figure,
+div {
   @media (min-width: $small) {
     &.half,
     &.third {
@@ -43,7 +44,16 @@ figure {
       grid-template-columns: auto auto;
     }
   }
+}
 
+.flex {
+  display: flex;
+  @media (max-width: $small) {
+    flex-direction: column;
+  }
+}
+
+figure {
   a:hover {
     scale: 1.01;
   }
@@ -54,6 +64,12 @@ figure {
     width: inherit;
     max-height: 480px;
     object-fit: cover;
+  }
+
+  video {
+    max-height: 480px;
+    width: auto;
+    margin: 2em;
   }
 }
 
