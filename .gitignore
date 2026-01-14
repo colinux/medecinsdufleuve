@@ -7,3 +7,5 @@ vendor
 /uploads
 
 .DS_Store
+
+/.claude/*.local.json
