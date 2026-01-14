@@ -10,6 +10,34 @@ classes:
   - headings-colored
   - wide
 
+gallery-missions-67-68:
+- url: assets/images/missions/mission-67-68_01.jpg
+  image_path: assets/images/missions/mission-67-68_01.thumb.jpg
+  alt: "L'équipe de Médecins du Fleuve en pirogue sur le fleuve Sénégal"
+  title: "L'équipe en pirogue sur le fleuve"
+- url: assets/images/missions/mission-67-68_02.jpg
+  image_path: assets/images/missions/mission-67-68_02.thumb.jpg
+  alt: "L'équipe de Médecins du Fleuve devant les palmiers"
+  title: "L'équipe devant les palmiers"
+- url: assets/images/missions/mission-67-68_03.jpg
+  image_path: assets/images/missions/mission-67-68_03.thumb.jpg
+  alt: "Consultation médicale avec les villageois"
+  title: "Consultation médicale"
+- url: assets/images/missions/mission-67-68_04.jpg
+  image_path: assets/images/missions/mission-67-68_04.thumb.jpg
+  alt: "L'équipe médicale et les patients dans le dispensaire"
+  title: "L'équipe médicale et les patients"
+
+gallery-inauguration-maraye:
+- url: assets/images/missions/actu-202512-inauguration-maraye-1.jpg
+  image_path: assets/images/missions/actu-202512-inauguration-maraye-1.thumb.jpg
+  alt: "Vue de la Case de santé de Maraye"
+  title: "La Case de santé de Maraye"
+- url: assets/images/missions/actu-202512-inauguration-maraye-2.jpg
+  image_path: assets/images/missions/actu-202512-inauguration-maraye-2.thumb.jpg
+  alt: "Photo de groupe devant la Case de santé de Maraye lors de l'inauguration"
+  title: "Inauguration de la Case de santé de Maraye"
+
 gallery-missions-65-66:
 - url: assets/images/missions/mission-65-66_01.jpg
   image_path: assets/images/missions/mission-65-66_01.thumb.jpg
@@ -697,6 +725,16 @@ gallery-mission-25:
 ---
 
 # Missions & actualités
+
+## Novembre/Décembre 2025. Missions 67 et 68
+
+Pendant un mois, un millier de malades ont encore pu bénéficier de nos soins au cours de ces deux missions itinérantes. Deux dispensaires supplémentaires (Sipo au sud et Mbao au nord) ont fait l’objet d'une visite d’évaluation et seront prochainement de nouveaux sites de consultations de MDF.
+
+{% include gallery id="gallery-missions-67-68" layout="half" %}
+
+## Décembre 2025. Inauguration de la Case de santé de Maraye
+
+{% include gallery id="gallery-inauguration-maraye" layout="half" %}
 
 ## Juin 2025. Lancement de la construction de la Case de santé de Maraye
 
