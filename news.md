@@ -10,6 +10,33 @@ classes:
   - headings-colored
   - wide
 
+gallery-mission-69:
+- url: assets/images/missions/mission-69_01.jpg
+  image_path: assets/images/missions/mission-69_01.thumb.jpg
+  alt: "Le Poste de santé de Sipo"
+  title: "Le Poste de santé de Sipo"
+- url: assets/images/missions/mission-69_02.jpg
+  image_path: assets/images/missions/mission-69_02.thumb.jpg
+  alt: "L'équipe se dirige vers le Poste de santé"
+  title: "L'équipe se dirige vers le Poste de santé"
+- url: assets/images/missions/mission-69_03.jpg
+  image_path: assets/images/missions/mission-69_03.thumb.jpg
+  alt: "L'équipe de Médecins du Fleuve devant les pirogues"
+  title: "L'équipe devant les pirogues"
+- url: assets/images/missions/mission-69_04.jpg
+  image_path: assets/images/missions/mission-69_04.thumb.jpg
+  alt: "L'équipe en pirogue dans le Delta du Saloum"
+  title: "En pirogue dans le Delta du Saloum"
+- url: assets/images/missions/mission-69_05.jpg
+  image_path: assets/images/missions/mission-69_05.thumb.jpg
+  alt: "L'équipe traverse un village du Delta du Saloum"
+  title: "Traversée d'un village"
+  style: "grid-row: span 2"
+- url: assets/images/missions/mission-69_06.jpg
+  image_path: assets/images/missions/mission-69_06.thumb.jpg
+  alt: "Consultation médicale dans le dispensaire"
+  title: "Consultation médicale"
+
 gallery-missions-67-68:
 - url: assets/images/missions/mission-67-68_01.jpg
   image_path: assets/images/missions/mission-67-68_01.thumb.jpg
@@ -725,6 +752,18 @@ gallery-mission-25:
 ---
 
 # Missions & actualités
+
+## Février 2026. Mission 69
+
+Au cours de cette mission au sud du Delta du Saloum un cinquième site de consultation a été ouvert dans le village insulaire de Sipo. Sur les cinq sites plus de 500 malades ont été vus au cours de cette mission de deux semaines.
+
+{% include gallery id="gallery-mission-69" layout="half" %}
+
+## Assemblée Générale du 14 mars 2026
+
+L'Assemblée Générale de MÉDECINS DU FLEUVE s'est tenue dans les locaux du Secours Populaire de Paris.
+
+[Consulter le rapport moral de l'année civile 2025](/assets/rapport_moral_mars_2026.pdf){: .btn .btn--primary target="_blank"}
 
 ## Novembre/Décembre 2025. Missions 67 et 68
 
