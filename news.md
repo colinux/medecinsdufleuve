@@ -10,6 +10,56 @@ classes:
   - headings-colored
   - wide
 
+gallery-actu-202608-20-ans:
+- url: assets/images/missions/actu-202608-20-ans-1.jpg
+  image_path: assets/images/missions/actu-202608-20-ans-1.thumb.jpg
+  alt: "La maternité financée par Médecins du Fleuve en 2016"
+  title: "La maternité financée par MDF en 2016"
+  style: "grid-column: span 2"
+- url: assets/images/missions/actu-202608-20-ans-2.jpg
+  image_path: assets/images/missions/actu-202608-20-ans-2.thumb.jpg
+  alt: "La pirogue Médecins du Fleuve amarrée au village de pêcheurs, dans la mangrove"
+  title: "La pirogue Médecins du Fleuve dans la mangrove"
+- url: assets/images/missions/actu-202608-20-ans-3.jpg
+  image_path: assets/images/missions/actu-202608-20-ans-3.thumb.jpg
+  alt: "Les bénévoles de Médecins du Fleuve devant une case du village"
+  title: "Les bénévoles de MDF"
+- url: assets/images/missions/actu-202608-20-ans-4.jpg
+  image_path: assets/images/missions/actu-202608-20-ans-4.thumb.jpg
+  alt: "L'équipe de Médecins du Fleuve et le personnel soignant devant le Poste de santé"
+  title: "L'équipe devant le Poste de santé"
+- url: assets/images/missions/actu-202608-20-ans-5.jpg
+  image_path: assets/images/missions/actu-202608-20-ans-5.thumb.jpg
+  alt: "Bénévoles de Médecins du Fleuve devant la banderole d'accueil"
+  title: "L'arrivée de l'équipe"
+- url: assets/images/missions/actu-202608-20-ans-6.jpg
+  image_path: assets/images/missions/actu-202608-20-ans-6.thumb.jpg
+  alt: "Chargement des malles de matériel médical sur le 4x4 de Médecins du Fleuve"
+  title: "Chargement du matériel médical"
+- url: assets/images/missions/actu-202608-20-ans-7.jpg
+  image_path: assets/images/missions/actu-202608-20-ans-7.thumb.jpg
+  alt: "Trois bénévoles en gilet de sauvetage à bord de la pirogue"
+  title: "Trajet en pirogue vers les villages insulaires"
+  style: "grid-row: span 2"
+- url: assets/images/missions/actu-202608-20-ans-8.jpg
+  image_path: assets/images/missions/actu-202608-20-ans-8.thumb.jpg
+  alt: "L'équipe de Médecins du Fleuve et les enfants du village devant les pirogues"
+  title: "L'équipe et les enfants du village"
+
+gallery-actu-202606-diplomes:
+- url: assets/images/missions/actu-202606-diplomes-1.jpg
+  image_path: assets/images/missions/actu-202606-diplomes-1.thumb.jpg
+  alt: "Khady, diplômée infirmière d'État, présente son attestation de réussite"
+  title: "Khady, infirmière d'État"
+- url: assets/images/missions/actu-202606-diplomes-2.jpg
+  image_path: assets/images/missions/actu-202606-diplomes-2.thumb.jpg
+  alt: "Insa, diplômé aide infirmier, présente son attestation"
+  title: "Insa, aide infirmier"
+- url: assets/images/missions/actu-202606-diplomes-3.jpg
+  image_path: assets/images/missions/actu-202606-diplomes-3.thumb.jpg
+  alt: "Bate, diplômée en kinésithérapie, présente son mémoire de fin d'études"
+  title: "Bate, kinésithérapeute"
+
 gallery-mission-69:
 - url: assets/images/missions/mission-69_01.jpg
   image_path: assets/images/missions/mission-69_01.thumb.jpg
@@ -752,6 +802,18 @@ gallery-mission-25:
 ---
 
 # Missions & actualités
+
+## Août 2026. Médecins du Fleuve a 20 ans
+
+Avec les dernières missions au Sénégal (n° 70, 71 et 72), MDF totalise désormais plus de CENT MISSIONS au profit des populations défavorisées du MALI (2007-2016) puis du SÉNÉGAL (2013-2026). Toute notre gratitude va à nos fidèles bénévoles et donateurs qui nous permettent de poursuivre nos actions de soins, de formation et d’investissements dans les petites structures sanitaires.
+
+{% include gallery id="gallery-actu-202608-20-ans" layout="half" %}
+
+## Juin 2026. Félicitations à nos nouveaux diplômés
+
+Grâce au soutien financier de MDF, Khady, Insa et Bate ont terminé avec succès leur cursus de formation en santé (infirmière, aide infirmier et kiné).
+
+{% include gallery id="gallery-actu-202606-diplomes" layout="third" %}
 
 ## Février 2026. Mission 69
 
