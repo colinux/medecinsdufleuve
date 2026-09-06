@@ -9,3 +9,6 @@ vendor
 .DS_Store
 
 /.claude/*.local.json
+
+# Playwright MCP (screenshots, snapshots, logs de console)
+/.playwright-mcp
